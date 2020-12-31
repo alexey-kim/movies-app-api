@@ -1,0 +1,4004 @@
+{
+  "movies": [
+    {
+      "title": "Monsters of Man",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1f3qspv64L5FXrRy0MF8X92ieuw.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1f3qspv64L5FXrRy0MF8X92ieuw.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/1f3qspv64L5FXrRy0MF8X92ieuw.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-11-19"
+    },
+    {
+      "title": "The Croods: A New Age",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg 2x"
+      ],
+      "rating": 79,
+      "releaseDate": "2020-11-25"
+    },
+    {
+      "title": "Honest Thief",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zeD4PabP6099gpE0STWJrJrCBCs.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zeD4PabP6099gpE0STWJrJrCBCs.jpg 2x"
+      ],
+      "rating": 70,
+      "releaseDate": "2020-09-03"
+    },
+    {
+      "title": "Wonder Woman 1984",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lNVHB85FUDZqLzvug3k6FA07RIr.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lNVHB85FUDZqLzvug3k6FA07RIr.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/lNVHB85FUDZqLzvug3k6FA07RIr.jpg 2x"
+      ],
+      "rating": 75,
+      "releaseDate": "2020-12-16"
+    },
+    {
+      "title": "Tenet",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k68nPLbIST6NP96JmTxmZijEvCA.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/k68nPLbIST6NP96JmTxmZijEvCA.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2020-08-22"
+    },
+    {
+      "title": "Greenland",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2020-07-29"
+    },
+    {
+      "title": "Wander",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2AwPvNHphpZBJDqjZKVuMAbvS0v.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2AwPvNHphpZBJDqjZKVuMAbvS0v.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2AwPvNHphpZBJDqjZKVuMAbvS0v.jpg 2x"
+      ],
+      "rating": 56,
+      "releaseDate": "2020-12-04"
+    },
+    {
+      "title": "Jiu Jitsu",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2020-11-20"
+    },
+    {
+      "title": "Fatman",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4n8QNNdk4BOX9Dslfbz5Dy6j1HK.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4n8QNNdk4BOX9Dslfbz5Dy6j1HK.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4n8QNNdk4BOX9Dslfbz5Dy6j1HK.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-11-13"
+    },
+    {
+      "title": "No Good Deed",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/27BnREBR5rcMrUVUhV5bTXlcCym.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/27BnREBR5rcMrUVUhV5bTXlcCym.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/27BnREBR5rcMrUVUhV5bTXlcCym.jpg 2x"
+      ],
+      "rating": 54,
+      "releaseDate": "2020-03-13"
+    },
+    {
+      "title": "Christmas Crossfire",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ajKpYK7XdzIYjy9Uy8nkgRboKyv.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ajKpYK7XdzIYjy9Uy8nkgRboKyv.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ajKpYK7XdzIYjy9Uy8nkgRboKyv.jpg 2x"
+      ],
+      "rating": 43,
+      "releaseDate": "2020-12-04"
+    },
+    {
+      "title": "Night Hunter",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vVYU0x9FRpiJNX7c54ciFnRBVYG.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vVYU0x9FRpiJNX7c54ciFnRBVYG.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/vVYU0x9FRpiJNX7c54ciFnRBVYG.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2019-08-29"
+    },
+    {
+      "title": "Originless",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/77lI0btz8qkExY13MKXaPrf4cA6.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/77lI0btz8qkExY13MKXaPrf4cA6.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/77lI0btz8qkExY13MKXaPrf4cA6.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-10-25"
+    },
+    {
+      "title": "Arthur &amp; Merlin: Knights of Camelot",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/chGTXsvn53XvEnvsJ9ZD9eiYKx9.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/chGTXsvn53XvEnvsJ9ZD9eiYKx9.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/chGTXsvn53XvEnvsJ9ZD9eiYKx9.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2020-05-28"
+    },
+    {
+      "title": "Heavenquest: A Pilgrim's Progress",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cLDPLia17AwMqSaRHccyAlInkch.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cLDPLia17AwMqSaRHccyAlInkch.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/cLDPLia17AwMqSaRHccyAlInkch.jpg 2x"
+      ],
+      "rating": 56,
+      "releaseDate": "2020-07-13"
+    },
+    {
+      "title": "Peninsula",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sy6DvAu72kjoseZEjocnm2ZZ09i.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sy6DvAu72kjoseZEjocnm2ZZ09i.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/sy6DvAu72kjoseZEjocnm2ZZ09i.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-07-15"
+    },
+    {
+      "title": "Soul",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg 2x"
+      ],
+      "rating": 85,
+      "releaseDate": "2020-12-25"
+    },
+    {
+      "title": "Toys of Terror",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c6hmAgPVXxZHwMHfS9z3W2n9Gz9.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c6hmAgPVXxZHwMHfS9z3W2n9Gz9.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/c6hmAgPVXxZHwMHfS9z3W2n9Gz9.jpg 2x"
+      ],
+      "rating": 56,
+      "releaseDate": "2020-10-18"
+    },
+    {
+      "title": "The Craft: Legacy",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2020-10-28"
+    },
+    {
+      "title": "Cosmoball",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bSpmhdaslwYH2fn2mj7cRcrN5Vi.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bSpmhdaslwYH2fn2mj7cRcrN5Vi.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bSpmhdaslwYH2fn2mj7cRcrN5Vi.jpg 2x"
+      ],
+      "rating": 51,
+      "releaseDate": "2020-08-27"
+    },
+    {
+      "title": "Free Fire",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/21WsmKivqOE2Vut73z07M8yx84F.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/21WsmKivqOE2Vut73z07M8yx84F.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/21WsmKivqOE2Vut73z07M8yx84F.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2017-03-31"
+    },
+    {
+      "title": "Sleeping with Danger",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/78FSyBCA8BVAK3FsO1s6mTanRz7.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/78FSyBCA8BVAK3FsO1s6mTanRz7.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/78FSyBCA8BVAK3FsO1s6mTanRz7.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2020-08-01"
+    },
+    {
+      "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/q034rbTWteRNA8sMSc2YjegmiUx.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/q034rbTWteRNA8sMSc2YjegmiUx.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/q034rbTWteRNA8sMSc2YjegmiUx.jpg 2x"
+      ],
+      "rating": 0,
+      "releaseDate": "2021-01-23"
+    },
+    {
+      "title": "Castle Freak",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/HJEosQRIdBzAHEdZJCUF7e5FmF.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/HJEosQRIdBzAHEdZJCUF7e5FmF.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/HJEosQRIdBzAHEdZJCUF7e5FmF.jpg 2x"
+      ],
+      "rating": 45,
+      "releaseDate": "2020-12-04"
+    },
+    {
+      "title": "After We Collided",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-09-02"
+    },
+    {
+      "title": "Torpedo: U-235",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wHuhFcsii1GkKPHVC1wpdvJ9Djs.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wHuhFcsii1GkKPHVC1wpdvJ9Djs.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/wHuhFcsii1GkKPHVC1wpdvJ9Djs.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2019-10-23"
+    },
+    {
+      "title": "The SpongeBob Movie: Sponge on the Run",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg 2x"
+      ],
+      "rating": 79,
+      "releaseDate": "2020-08-14"
+    },
+    {
+      "title": "Chick Fight",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg 2x"
+      ],
+      "rating": 56,
+      "releaseDate": "2020-11-13"
+    },
+    {
+      "title": "Mulan",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2020-09-04"
+    },
+    {
+      "title": "Roald Dahl's The Witches",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-10-26"
+    },
+    {
+      "title": "Battleship",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg 2x"
+      ],
+      "rating": 57,
+      "releaseDate": "2012-04-11"
+    },
+    {
+      "title": "Don't Listen",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ffdPUteSePSqJEhKJKwgSIWumC2.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ffdPUteSePSqJEhKJKwgSIWumC2.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ffdPUteSePSqJEhKJKwgSIWumC2.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-07-24"
+    },
+    {
+      "title": "Superagente Makey",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1IjQJE90yB8WliDRb1N3EvEMsjr.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1IjQJE90yB8WliDRb1N3EvEMsjr.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/1IjQJE90yB8WliDRb1N3EvEMsjr.jpg 2x"
+      ],
+      "rating": 40,
+      "releaseDate": "2020-07-17"
+    },
+    {
+      "title": "The New Mutants",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xrI4EnZWftpo1B7tTvlMUXVOikd.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xrI4EnZWftpo1B7tTvlMUXVOikd.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/xrI4EnZWftpo1B7tTvlMUXVOikd.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2020-08-26"
+    },
+    {
+      "title": "Freaky",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-11-12"
+    },
+    {
+      "title": "Disclosure",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/m10Sx3ikuXhJomFnN3OYpkBpYEc.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/m10Sx3ikuXhJomFnN3OYpkBpYEc.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/m10Sx3ikuXhJomFnN3OYpkBpYEc.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "1994-03-10"
+    },
+    {
+      "title": "Rogue Warfare: Death of a Nation",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8GVpIEBqlRBvx28G0LfEX0U8D2k.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8GVpIEBqlRBvx28G0LfEX0U8D2k.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/8GVpIEBqlRBvx28G0LfEX0U8D2k.jpg 2x"
+      ],
+      "rating": 38,
+      "releaseDate": "2020-09-25"
+    },
+    {
+      "title": "The Dalton Gang",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6OeGqp18oZucUGziMIRNhLouZ75.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6OeGqp18oZucUGziMIRNhLouZ75.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6OeGqp18oZucUGziMIRNhLouZ75.jpg 2x"
+      ],
+      "rating": 44,
+      "releaseDate": "2020-11-02"
+    },
+    {
+      "title": "Safe",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kOCpkoMUVae9UIf85gO71SyjLbW.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kOCpkoMUVae9UIf85gO71SyjLbW.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/kOCpkoMUVae9UIf85gO71SyjLbW.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2012-04-16"
+    },
+    {
+      "title": "Welcome to Sudden Death",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2020-09-29"
+    },
+    {
+      "title": "Rogue City",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9HT9982bzgN5on1sLRmc1GMn6ZC.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9HT9982bzgN5on1sLRmc1GMn6ZC.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/9HT9982bzgN5on1sLRmc1GMn6ZC.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-10-30"
+    },
+    {
+      "title": "Godmothered",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2020-12-04"
+    },
+    {
+      "title": "First Love",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9BacU3JOXFyHc5ZqrX7kM9UjpCw.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9BacU3JOXFyHc5ZqrX7kM9UjpCw.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/9BacU3JOXFyHc5ZqrX7kM9UjpCw.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2019-05-31"
+    },
+    {
+      "title": "The Stand In",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/twQeFldoNaDnMYXmZNXpm3NHlhP.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/twQeFldoNaDnMYXmZNXpm3NHlhP.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/twQeFldoNaDnMYXmZNXpm3NHlhP.jpg 2x"
+      ],
+      "rating": 53,
+      "releaseDate": "2020-12-03"
+    },
+    {
+      "title": "Wild Mountain Thyme",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vMW81htT6Kki8x0G4UNb7l48iIr.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vMW81htT6Kki8x0G4UNb7l48iIr.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/vMW81htT6Kki8x0G4UNb7l48iIr.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-12-11"
+    },
+    {
+      "title": "In the Arms of an Assassin",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iqRUOtbDunNq7gTux3zXz25Krwp.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iqRUOtbDunNq7gTux3zXz25Krwp.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iqRUOtbDunNq7gTux3zXz25Krwp.jpg 2x"
+      ],
+      "rating": 82,
+      "releaseDate": "2019-12-06"
+    },
+    {
+      "title": "Once Upon a Snowman",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hddzYJtfYYeMDOQVcH58n8m1W3A.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hddzYJtfYYeMDOQVcH58n8m1W3A.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/hddzYJtfYYeMDOQVcH58n8m1W3A.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-10-23"
+    },
+    {
+      "title": "Naruto Shippuden the Movie",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vDkct38sSFSWJIATlfJw0l3QOIR.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/vDkct38sSFSWJIATlfJw0l3QOIR.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2007-08-04"
+    },
+    {
+      "title": "Ninja",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/t24R7on3ngFfWjtvKIC9O69c3MM.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/t24R7on3ngFfWjtvKIC9O69c3MM.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/t24R7on3ngFfWjtvKIC9O69c3MM.jpg 2x"
+      ],
+      "rating": 59,
+      "releaseDate": "2009-10-22"
+    },
+    {
+      "title": "Wonder Woman",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gfJGlDaHuWimErCr5Ql0I8x9QSy.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gfJGlDaHuWimErCr5Ql0I8x9QSy.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/gfJGlDaHuWimErCr5Ql0I8x9QSy.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2017-05-30"
+    },
+    {
+      "title": "Cut Throat City",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/a2Dcje3NkmySevZo5hVCfPaxqdL.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/a2Dcje3NkmySevZo5hVCfPaxqdL.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/a2Dcje3NkmySevZo5hVCfPaxqdL.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2020-07-31"
+    },
+    {
+      "title": "Batman: Death in the Family",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-10-13"
+    },
+    {
+      "title": "Ava",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg 2x"
+      ],
+      "rating": 57,
+      "releaseDate": "2020-07-02"
+    },
+    {
+      "title": "The Three Musketeers",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w2LbQ8FvZiQpWvZyHljaOeiNknK.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w2LbQ8FvZiQpWvZyHljaOeiNknK.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/w2LbQ8FvZiQpWvZyHljaOeiNknK.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2011-08-31"
+    },
+    {
+      "title": "Cartel Land",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w9EJ6s2h2FiLu3RRAmzJOTxW47l.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w9EJ6s2h2FiLu3RRAmzJOTxW47l.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/w9EJ6s2h2FiLu3RRAmzJOTxW47l.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2015-07-03"
+    },
+    {
+      "title": "My Hero Academia: Heroes Rising",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zGVbrulkupqpbwgiNedkJPyQum4.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zGVbrulkupqpbwgiNedkJPyQum4.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zGVbrulkupqpbwgiNedkJPyQum4.jpg 2x"
+      ],
+      "rating": 84,
+      "releaseDate": "2019-12-20"
+    },
+    {
+      "title": "The Christmas Chronicles: Part Two",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-11-18"
+    },
+    {
+      "title": "Triggered",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/KvhqUA8EtywXYCHb9up4cnG5en.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/KvhqUA8EtywXYCHb9up4cnG5en.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/KvhqUA8EtywXYCHb9up4cnG5en.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2020-08-28"
+    },
+    {
+      "title": "Enola Holmes",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/riYInlsq2kf1AWoGm80JQW5dLKp.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/riYInlsq2kf1AWoGm80JQW5dLKp.jpg 2x"
+      ],
+      "rating": 75,
+      "releaseDate": "2020-09-23"
+    },
+    {
+      "title": "Lassie Come Home",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/82yxvnYtgeRzsq5f9USlrFJI05s.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/82yxvnYtgeRzsq5f9USlrFJI05s.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/82yxvnYtgeRzsq5f9USlrFJI05s.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2020-02-20"
+    },
+    {
+      "title": "Playhouse",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cF4tZH8VQ6Lic3bi4WKwWDJODQf.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cF4tZH8VQ6Lic3bi4WKwWDJODQf.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/cF4tZH8VQ6Lic3bi4WKwWDJODQf.jpg 2x"
+      ],
+      "rating": 0,
+      "releaseDate": "2021-01-28"
+    },
+    {
+      "title": "Starship Troopers: Invasion",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4zQ5CDrhqB7mObwv5oYkGyh37Pl.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4zQ5CDrhqB7mObwv5oYkGyh37Pl.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4zQ5CDrhqB7mObwv5oYkGyh37Pl.jpg 2x"
+      ],
+      "rating": 56,
+      "releaseDate": "2012-07-21"
+    },
+    {
+      "title": "Come Play",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/e98dJUitAoKLwmzjQ0Yxp1VQrnU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/e98dJUitAoKLwmzjQ0Yxp1VQrnU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/e98dJUitAoKLwmzjQ0Yxp1VQrnU.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-10-28"
+    },
+    {
+      "title": "Baba Yaga: Terror of the Dark Forest",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8m5HTXzwewlfXhtZtLlLts53YTW.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8m5HTXzwewlfXhtZtLlLts53YTW.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/8m5HTXzwewlfXhtZtLlLts53YTW.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-02-27"
+    },
+    {
+      "title": "Ma Rainey's Black Bottom",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pvtyxijaBrCSbByXLcUIDDSvc40.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/pvtyxijaBrCSbByXLcUIDDSvc40.jpg 2x"
+      ],
+      "rating": 70,
+      "releaseDate": "2020-11-25"
+    },
+    {
+      "title": "I'm Your Woman",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uTcJAxIV8BzNXuvcViBSibQSBid.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uTcJAxIV8BzNXuvcViBSibQSBid.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/uTcJAxIV8BzNXuvcViBSibQSBid.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2020-12-04"
+    },
+    {
+      "title": "Combat Wombat",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-10-15"
+    },
+    {
+      "title": "Mortal",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2020-02-28"
+    },
+    {
+      "title": "Be Careful What You Wish For",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lG6Wx5tWOEHkOuexEvNYha3ofvM.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lG6Wx5tWOEHkOuexEvNYha3ofvM.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/lG6Wx5tWOEHkOuexEvNYha3ofvM.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-04-24"
+    },
+    {
+      "title": "The War with Grandpa",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yUFbPtWeDbVR3zmqshOaL5lScyo.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yUFbPtWeDbVR3zmqshOaL5lScyo.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/yUFbPtWeDbVR3zmqshOaL5lScyo.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2020-08-27"
+    },
+    {
+      "title": "PAW Patrol: Jet to the Rescue",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-09-03"
+    },
+    {
+      "title": "Aztech",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/t9ttLmZ3NJbgtnOsGyQNiF2ngJo.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/t9ttLmZ3NJbgtnOsGyQNiF2ngJo.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/t9ttLmZ3NJbgtnOsGyQNiF2ngJo.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2020-11-20"
+    },
+    {
+      "title": "Demon Slayer the Movie: Mugen Train",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-10-16"
+    },
+    {
+      "title": "Deep Impact",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/s4jLGKtIAtzdOGgwnkJNRFd6iAj.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/s4jLGKtIAtzdOGgwnkJNRFd6iAj.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/s4jLGKtIAtzdOGgwnkJNRFd6iAj.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "1998-05-08"
+    },
+    {
+      "title": "The Midnight Sky",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/51JxCk77ZCqLzbLkrDl9Qho6KUh.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/51JxCk77ZCqLzbLkrDl9Qho6KUh.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/51JxCk77ZCqLzbLkrDl9Qho6KUh.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2020-12-10"
+    },
+    {
+      "title": "Psycho-Pass 3: First Inspector",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/m2RzGRMbdMUcp8S3PYtlPpHa83g.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/m2RzGRMbdMUcp8S3PYtlPpHa83g.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/m2RzGRMbdMUcp8S3PYtlPpHa83g.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2020-03-27"
+    },
+    {
+      "title": "Hürkuş: Göklerdeki Kahraman",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/m8hH87ZDYn5yRVAeiChCC1tkLLe.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/m8hH87ZDYn5yRVAeiChCC1tkLLe.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/m8hH87ZDYn5yRVAeiChCC1tkLLe.jpg 2x"
+      ],
+      "rating": 45,
+      "releaseDate": "2018-05-25"
+    },
+    {
+      "title": "The Meteor Man",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/d30mZVOrY8n5KCvwaPkiQEFv1tc.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/d30mZVOrY8n5KCvwaPkiQEFv1tc.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/d30mZVOrY8n5KCvwaPkiQEFv1tc.jpg 2x"
+      ],
+      "rating": 52,
+      "releaseDate": "1993-08-06"
+    },
+    {
+      "title": "Universal Soldier: Day of Reckoning",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2012-10-04"
+    },
+    {
+      "title": "Final Fantasy VII: Advent Children",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2005-07-14"
+    },
+    {
+      "title": "Miami Vice",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iJPSls4taB09EUKtLj6FjFSprb3.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iJPSls4taB09EUKtLj6FjFSprb3.jpg 2x"
+      ],
+      "rating": 59,
+      "releaseDate": "2006-07-27"
+    },
+    {
+      "title": "Rescue Under Fire",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pIi99YX0L6YzTHDzt8r7oLG01Ky.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pIi99YX0L6YzTHDzt8r7oLG01Ky.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/pIi99YX0L6YzTHDzt8r7oLG01Ky.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2017-03-10"
+    },
+    {
+      "title": "Ariana Grande: Excuse Me, I Love You",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg 2x"
+      ],
+      "rating": 84,
+      "releaseDate": "2020-12-21"
+    },
+    {
+      "title": "American Pie Presents: Girls' Rules",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xqvX5A24dbIWaeYsMTxxKX5qOfz.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xqvX5A24dbIWaeYsMTxxKX5qOfz.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/xqvX5A24dbIWaeYsMTxxKX5qOfz.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2020-10-06"
+    },
+    {
+      "title": "Spell",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4rjHhj1BAREc9zNFU8FheLJQdFf.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4rjHhj1BAREc9zNFU8FheLJQdFf.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4rjHhj1BAREc9zNFU8FheLJQdFf.jpg 2x"
+      ],
+      "rating": 54,
+      "releaseDate": "2020-10-30"
+    },
+    {
+      "title": "Abducted",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wAbvph9ikY22CrOPVJOaPFPySH.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wAbvph9ikY22CrOPVJOaPFPySH.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/wAbvph9ikY22CrOPVJOaPFPySH.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2018-02-21"
+    },
+    {
+      "title": "Ammonite",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2020-11-13"
+    },
+    {
+      "title": "Goblin Slayer: Goblin's Crown",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/oyDaF4za9C9GxfYSyZUmj2aZGJT.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/oyDaF4za9C9GxfYSyZUmj2aZGJT.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/oyDaF4za9C9GxfYSyZUmj2aZGJT.jpg 2x"
+      ],
+      "rating": 79,
+      "releaseDate": "2020-02-01"
+    },
+    {
+      "title": "Attraction",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2lz2GVDsgMlGYSzPl8BeKqqU7MQ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2lz2GVDsgMlGYSzPl8BeKqqU7MQ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2lz2GVDsgMlGYSzPl8BeKqqU7MQ.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2017-01-26"
+    },
+    {
+      "title": "Arena",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/68vyY0UlUtz88kd39EtyQSOCNDV.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/68vyY0UlUtz88kd39EtyQSOCNDV.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/68vyY0UlUtz88kd39EtyQSOCNDV.jpg 2x"
+      ],
+      "rating": 52,
+      "releaseDate": "2011-10-11"
+    },
+    {
+      "title": "An Unremarkable Christmas",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iw7RlQZcCEME5i2pxtHnOExp0JU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iw7RlQZcCEME5i2pxtHnOExp0JU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iw7RlQZcCEME5i2pxtHnOExp0JU.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2020-12-17"
+    },
+    {
+      "title": "Kajillionaire",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hL5wFTHonhxpye7lVCUx2r8fusy.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hL5wFTHonhxpye7lVCUx2r8fusy.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/hL5wFTHonhxpye7lVCUx2r8fusy.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-09-25"
+    },
+    {
+      "title": "Sputnik",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eAUzmhP54bE1vPXaY7FbuZREJlR.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eAUzmhP54bE1vPXaY7FbuZREJlR.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/eAUzmhP54bE1vPXaY7FbuZREJlR.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2020-09-08"
+    },
+    {
+      "title": "Upside-Down Magic",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/h9vTJ78h0SASYUxg4jV0AQ00oF2.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/h9vTJ78h0SASYUxg4jV0AQ00oF2.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/h9vTJ78h0SASYUxg4jV0AQ00oF2.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2020-07-31"
+    },
+    {
+      "title": "Porky's",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AqCOt1cWfKqCepxK7LIdT812idH.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AqCOt1cWfKqCepxK7LIdT812idH.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/AqCOt1cWfKqCepxK7LIdT812idH.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "1981-11-13"
+    },
+    {
+      "title": "Beckman",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/z0r3YjyJSLqf6Hz0rbBAnEhNXQ7.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/z0r3YjyJSLqf6Hz0rbBAnEhNXQ7.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/z0r3YjyJSLqf6Hz0rbBAnEhNXQ7.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2020-09-10"
+    },
+    {
+      "title": "Happiest Season",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vzec9kkOSE93tygyfOktedkeOQ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/vzec9kkOSE93tygyfOktedkeOQ.jpg 2x"
+      ],
+      "rating": 75,
+      "releaseDate": "2020-11-26"
+    },
+    {
+      "title": "Grandma's Last Wishes",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ltLA4MrcoiYx6GjOgWMUc7rGR6O.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ltLA4MrcoiYx6GjOgWMUc7rGR6O.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ltLA4MrcoiYx6GjOgWMUc7rGR6O.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-10-09"
+    },
+    {
+      "title": "Terrifier",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nfRlQCl590F30L37aihuqBGBvaO.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nfRlQCl590F30L37aihuqBGBvaO.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/nfRlQCl590F30L37aihuqBGBvaO.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2016-10-15"
+    },
+    {
+      "title": "Over the Moon",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lQfdytwN7eh0tXWjIiMceFdBBvD.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lQfdytwN7eh0tXWjIiMceFdBBvD.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/lQfdytwN7eh0tXWjIiMceFdBBvD.jpg 2x"
+      ],
+      "rating": 76,
+      "releaseDate": "2020-10-16"
+    },
+    {
+      "title": "Rose Island",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yePO1PrRfrVMGqwJ3EzKhVvQXBX.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yePO1PrRfrVMGqwJ3EzKhVvQXBX.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/yePO1PrRfrVMGqwJ3EzKhVvQXBX.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2020-12-09"
+    },
+    {
+      "title": "The Idealists",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ugYaq5Nz4PhY44BWiZyWFhMqKbl.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ugYaq5Nz4PhY44BWiZyWFhMqKbl.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ugYaq5Nz4PhY44BWiZyWFhMqKbl.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2020-09-17"
+    },
+    {
+      "title": "The Christmas Gift",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8lFYLqbHV8U7fW5DEj0QenUvi6Z.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8lFYLqbHV8U7fW5DEj0QenUvi6Z.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/8lFYLqbHV8U7fW5DEj0QenUvi6Z.jpg 2x"
+      ],
+      "rating": 0,
+      "releaseDate": "2020-04-20"
+    },
+    {
+      "title": "Virus",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg 2x"
+      ],
+      "rating": 52,
+      "releaseDate": "1999-01-14"
+    },
+    {
+      "title": "Ashfall",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zoeKREZ2IdAUnXISYCS0E6H5BVh.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zoeKREZ2IdAUnXISYCS0E6H5BVh.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zoeKREZ2IdAUnXISYCS0E6H5BVh.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2019-12-19"
+    },
+    {
+      "title": "Stormbreaker",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zTAeyJNTx3oVh1LqAoI0RNcsVmV.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zTAeyJNTx3oVh1LqAoI0RNcsVmV.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zTAeyJNTx3oVh1LqAoI0RNcsVmV.jpg 2x"
+      ],
+      "rating": 52,
+      "releaseDate": "2006-07-21"
+    },
+    {
+      "title": "Star Wars: Wrath of the Mandalorian",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6CHI1oBKrQ0qU2D7jk67mxOp4zv.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6CHI1oBKrQ0qU2D7jk67mxOp4zv.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6CHI1oBKrQ0qU2D7jk67mxOp4zv.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2008-07-06"
+    },
+    {
+      "title": "Alone",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/n9OzZmPMnVrV0cMQ7amX0DtBkQH.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/n9OzZmPMnVrV0cMQ7amX0DtBkQH.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/n9OzZmPMnVrV0cMQ7amX0DtBkQH.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2020-09-10"
+    },
+    {
+      "title": "Universal Soldier II: Brothers in Arms",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2w4QJF8uu7PknmKBhOLN1InKrhu.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2w4QJF8uu7PknmKBhOLN1InKrhu.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2w4QJF8uu7PknmKBhOLN1InKrhu.jpg 2x"
+      ],
+      "rating": 43,
+      "releaseDate": "1998-09-27"
+    },
+    {
+      "title": "The Silence",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fdSKncGeumQyBfdgo5rlL3RPDCN.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fdSKncGeumQyBfdgo5rlL3RPDCN.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/fdSKncGeumQyBfdgo5rlL3RPDCN.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2010-08-13"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg 2x"
+      ],
+      "rating": 83,
+      "releaseDate": "2018-04-25"
+    },
+    {
+      "title": "Cop Out",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qA31i7FPVDHezuoevx3497CvZd4.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qA31i7FPVDHezuoevx3497CvZd4.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qA31i7FPVDHezuoevx3497CvZd4.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2010-02-26"
+    },
+    {
+      "title": "The Legend of Hercules",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/GD9nfxw68XWBreHeEq2Jz28qeb.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/GD9nfxw68XWBreHeEq2Jz28qeb.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/GD9nfxw68XWBreHeEq2Jz28qeb.jpg 2x"
+      ],
+      "rating": 47,
+      "releaseDate": "2014-01-10"
+    },
+    {
+      "title": "After Porn Ends 2",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/rfItXrtDGILwsCdmgVxX79phFuI.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/rfItXrtDGILwsCdmgVxX79phFuI.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/rfItXrtDGILwsCdmgVxX79phFuI.jpg 2x"
+      ],
+      "rating": 52,
+      "releaseDate": "2017-03-28"
+    },
+    {
+      "title": "Borat Subsequent Moviefilm",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kwh9dYvZLn7yJ9nfU5sPj2h9O7l.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kwh9dYvZLn7yJ9nfU5sPj2h9O7l.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/kwh9dYvZLn7yJ9nfU5sPj2h9O7l.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-10-23"
+    },
+    {
+      "title": "Just Another Christmas",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pv4e8yKGMJAaZihYPFUjYHsG8Ob.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pv4e8yKGMJAaZihYPFUjYHsG8Ob.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/pv4e8yKGMJAaZihYPFUjYHsG8Ob.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2020-12-03"
+    },
+    {
+      "title": "How the Grinch Stole Christmas",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1WZbbPApEivA421gCOluuzMMKCk.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/1WZbbPApEivA421gCOluuzMMKCk.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "2000-11-17"
+    },
+    {
+      "title": "Dreamland",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-11-13"
+    },
+    {
+      "title": "The Croods",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2013-03-20"
+    },
+    {
+      "title": "Angela's Christmas Wish",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eu747ko823mktL3ygo7ohdZznP7.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eu747ko823mktL3ygo7ohdZznP7.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/eu747ko823mktL3ygo7ohdZznP7.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2020-12-01"
+    },
+    {
+      "title": "Invasion",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dqKqzcdhtJwOhjqe89RTURqILtl.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dqKqzcdhtJwOhjqe89RTURqILtl.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/dqKqzcdhtJwOhjqe89RTURqILtl.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-01-01"
+    },
+    {
+      "title": "Before the Fire",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bAwtbmCzhFwKf2wN6QQH301ylbO.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bAwtbmCzhFwKf2wN6QQH301ylbO.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bAwtbmCzhFwKf2wN6QQH301ylbO.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2020-03-14"
+    },
+    {
+      "title": "Secret Society of Second Born Royals",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xOmGTJtBgRVSAF4S5dZEUqHqyy5.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xOmGTJtBgRVSAF4S5dZEUqHqyy5.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/xOmGTJtBgRVSAF4S5dZEUqHqyy5.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-09-25"
+    },
+    {
+      "title": "Haunting of the Mary Celeste",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gk179gfqaW3TV191VN7xU0dLAi.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gk179gfqaW3TV191VN7xU0dLAi.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/gk179gfqaW3TV191VN7xU0dLAi.jpg 2x"
+      ],
+      "rating": 59,
+      "releaseDate": "2020-10-23"
+    },
+    {
+      "title": "A Trash Truck Christmas",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2020-12-11"
+    },
+    {
+      "title": "KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/j73LuQcA21KvkVFcroWWMN8tTJv.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/j73LuQcA21KvkVFcroWWMN8tTJv.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/j73LuQcA21KvkVFcroWWMN8tTJv.jpg 2x"
+      ],
+      "rating": 85,
+      "releaseDate": "2019-08-30"
+    },
+    {
+      "title": "The Last: Naruto the Movie",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2014-12-06"
+    },
+    {
+      "title": "Repo Men",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/briDKf5nrLzox2zcI6pquKeqWz8.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/briDKf5nrLzox2zcI6pquKeqWz8.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/briDKf5nrLzox2zcI6pquKeqWz8.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2010-03-18"
+    },
+    {
+      "title": "Sin Hijos",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ejTO12C5vzoM0YF4tP35LZpMj2n.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ejTO12C5vzoM0YF4tP35LZpMj2n.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ejTO12C5vzoM0YF4tP35LZpMj2n.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-07-27"
+    },
+    {
+      "title": "Payback",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6wvtqAKsMso4oKTCmAlKtV2W0Zy.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6wvtqAKsMso4oKTCmAlKtV2W0Zy.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6wvtqAKsMso4oKTCmAlKtV2W0Zy.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "1999-02-05"
+    },
+    {
+      "title": "Chico Bon Bon and the Very Berry Holiday",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6uFfmr790HSdCJcfCeQcltAZUrt.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6uFfmr790HSdCJcfCeQcltAZUrt.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6uFfmr790HSdCJcfCeQcltAZUrt.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2020-12-03"
+    },
+    {
+      "title": "Rogue",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg 2x"
+      ],
+      "rating": 57,
+      "releaseDate": "2020-08-20"
+    },
+    {
+      "title": "A Go! Go! Cory Carson Christmas",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fTsULguy08O7nRmkhifnGtAcDq9.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fTsULguy08O7nRmkhifnGtAcDq9.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/fTsULguy08O7nRmkhifnGtAcDq9.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-11-27"
+    },
+    {
+      "title": "Never Back Down",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mYkTq569KOtjdq5zo9mrEY6ecip.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mYkTq569KOtjdq5zo9mrEY6ecip.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/mYkTq569KOtjdq5zo9mrEY6ecip.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "2008-03-04"
+    },
+    {
+      "title": "Alien Xmas",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-11-20"
+    },
+    {
+      "title": "The Grinch",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/stAu0oF6dYDhV5ssbmFUYkQPtCP.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/stAu0oF6dYDhV5ssbmFUYkQPtCP.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/stAu0oF6dYDhV5ssbmFUYkQPtCP.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2018-11-08"
+    },
+    {
+      "title": "Saint Seiya Heaven Chapter: Overture",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yiCGFrbjG35dU8ToxOcNlcJdStO.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yiCGFrbjG35dU8ToxOcNlcJdStO.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/yiCGFrbjG35dU8ToxOcNlcJdStO.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2004-02-14"
+    },
+    {
+      "title": "Bobbleheads: The Movie",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/t7gNfiDRZLgNka0Q7hPmRgmxLoG.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/t7gNfiDRZLgNka0Q7hPmRgmxLoG.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/t7gNfiDRZLgNka0Q7hPmRgmxLoG.jpg 2x"
+      ],
+      "rating": 50,
+      "releaseDate": "2020-12-08"
+    },
+    {
+      "title": "Vampire Virus",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xRyb5pjWdPSXvFpYUNibMPW91UE.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xRyb5pjWdPSXvFpYUNibMPW91UE.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/xRyb5pjWdPSXvFpYUNibMPW91UE.jpg 2x"
+      ],
+      "rating": 57,
+      "releaseDate": "2020-06-27"
+    },
+    {
+      "title": "Dragons: Rescue Riders: Huttsgalor Holiday",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3JZ3I9BDzVkDWRIGBl75MIig8Xg.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3JZ3I9BDzVkDWRIGBl75MIig8Xg.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/3JZ3I9BDzVkDWRIGBl75MIig8Xg.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2020-11-24"
+    },
+    {
+      "title": "Love and Monsters",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg 2x"
+      ],
+      "rating": 76,
+      "releaseDate": "2020-10-16"
+    },
+    {
+      "title": "Half a Loaf of Kung Fu",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qyNG5IRXNZI5SCZ7Soknqf5b8nI.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qyNG5IRXNZI5SCZ7Soknqf5b8nI.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qyNG5IRXNZI5SCZ7Soknqf5b8nI.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "1978-06-30"
+    },
+    {
+      "title": "Rogue Warfare",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/78hDh9EHDMbox4FlKlOrRfrmgpU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/78hDh9EHDMbox4FlKlOrRfrmgpU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/78hDh9EHDMbox4FlKlOrRfrmgpU.jpg 2x"
+      ],
+      "rating": 57,
+      "releaseDate": "2019-10-04"
+    },
+    {
+      "title": "Cranston Academy: Monster Zone",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iwWDHYlmiOXNBCsvhCDfccluLQK.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iwWDHYlmiOXNBCsvhCDfccluLQK.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iwWDHYlmiOXNBCsvhCDfccluLQK.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "2020-04-29"
+    },
+    {
+      "title": "Frozen II",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qXsndsv3WOoxszmdlvTWeY688eK.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qXsndsv3WOoxszmdlvTWeY688eK.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qXsndsv3WOoxszmdlvTWeY688eK.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2019-11-20"
+    },
+    {
+      "title": "Buddy Games",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uNCZh6YGg6r0GMyrctI14R0lHGL.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uNCZh6YGg6r0GMyrctI14R0lHGL.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/uNCZh6YGg6r0GMyrctI14R0lHGL.jpg 2x"
+      ],
+      "rating": 57,
+      "releaseDate": "2019-02-10"
+    },
+    {
+      "title": "It Chapter Two",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zfE0R94v1E8cuKAerbskfD3VfUt.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zfE0R94v1E8cuKAerbskfD3VfUt.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2019-09-04"
+    },
+    {
+      "title": "Let Him Go",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-11-05"
+    },
+    {
+      "title": "VFW",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AnVD7Gn14uOTQhcc5xYZGQ9DRvS.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AnVD7Gn14uOTQhcc5xYZGQ9DRvS.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/AnVD7Gn14uOTQhcc5xYZGQ9DRvS.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2020-02-14"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/or06FN3Dka5tukK1e9sl16pB3iy.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/or06FN3Dka5tukK1e9sl16pB3iy.jpg 2x"
+      ],
+      "rating": 83,
+      "releaseDate": "2019-04-24"
+    },
+    {
+      "title": "Endless",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1ZViaX2oRnI0uM3Gf87Z7eCZ3hE.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1ZViaX2oRnI0uM3Gf87Z7eCZ3hE.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/1ZViaX2oRnI0uM3Gf87Z7eCZ3hE.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-04-09"
+    },
+    {
+      "title": "Hard Kill",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg 2x"
+      ],
+      "rating": 49,
+      "releaseDate": "2020-10-23"
+    },
+    {
+      "title": "The Mortuary Collection",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5WXeYnezavNI6hXH74aQYv6yFzj.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5WXeYnezavNI6hXH74aQYv6yFzj.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/5WXeYnezavNI6hXH74aQYv6yFzj.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "2020-10-08"
+    },
+    {
+      "title": "The Lion Guard: Return of the Roar",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/duqg6CiSik02nSXjiQHo8TcwY4b.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/duqg6CiSik02nSXjiQHo8TcwY4b.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/duqg6CiSik02nSXjiQHo8TcwY4b.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2015-11-22"
+    },
+    {
+      "title": "Jingle Jangle: A Christmas Journey",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5RbyHIVydD3Krmec1LlUV7rRjet.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5RbyHIVydD3Krmec1LlUV7rRjet.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/5RbyHIVydD3Krmec1LlUV7rRjet.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-11-06"
+    },
+    {
+      "title": "Half Past Dead",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2ZNazq1jvwQPmc4Ab4ekqtbDpQm.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2ZNazq1jvwQPmc4Ab4ekqtbDpQm.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2ZNazq1jvwQPmc4Ab4ekqtbDpQm.jpg 2x"
+      ],
+      "rating": 48,
+      "releaseDate": "2002-11-15"
+    },
+    {
+      "title": "Call Me by Your Name",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tcNniniS4rfqrLH0oORikJfnIwY.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tcNniniS4rfqrLH0oORikJfnIwY.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/tcNniniS4rfqrLH0oORikJfnIwY.jpg 2x"
+      ],
+      "rating": 83,
+      "releaseDate": "2017-09-01"
+    },
+    {
+      "title": "The Scientist",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hIkKM1nlzk8DThFT4vxgW1KoofL.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hIkKM1nlzk8DThFT4vxgW1KoofL.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/hIkKM1nlzk8DThFT4vxgW1KoofL.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2020-09-21"
+    },
+    {
+      "title": "Death of Me",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8F9xUvb1JMWUMkFV2Yq3aiueAbq.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8F9xUvb1JMWUMkFV2Yq3aiueAbq.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/8F9xUvb1JMWUMkFV2Yq3aiueAbq.jpg 2x"
+      ],
+      "rating": 52,
+      "releaseDate": "2020-10-02"
+    },
+    {
+      "title": "The Three Musketeers",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "1993-11-11"
+    },
+    {
+      "title": "Boruto: Naruto the Movie",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2015-08-07"
+    },
+    {
+      "title": "Midnight at the Magnolia",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/137bMICR7Gs2lO63DLjbFQftefv.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/137bMICR7Gs2lO63DLjbFQftefv.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/137bMICR7Gs2lO63DLjbFQftefv.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2020-11-05"
+    },
+    {
+      "title": "Solomon Kane",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg 2x"
+      ],
+      "rating": 59,
+      "releaseDate": "2009-09-16"
+    },
+    {
+      "title": "Never Back Down 2: The Beatdown",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ywdD73k13XGho13MSUzQIDxD4iA.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ywdD73k13XGho13MSUzQIDxD4iA.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ywdD73k13XGho13MSUzQIDxD4iA.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2011-09-13"
+    },
+    {
+      "title": "Captain Underpants: Mega Blissmas",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uiiM9DiRWLyXJfGCQe03CseURFo.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uiiM9DiRWLyXJfGCQe03CseURFo.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/uiiM9DiRWLyXJfGCQe03CseURFo.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-12-04"
+    },
+    {
+      "title": "Flyboys",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2006-09-22"
+    },
+    {
+      "title": "Home Alone 2: Lost in New York",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "1992-11-19"
+    },
+    {
+      "title": "El día que me perdí",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/moCnnkbzhMPp8YkxCakXDdi2Y5.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/moCnnkbzhMPp8YkxCakXDdi2Y5.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/moCnnkbzhMPp8YkxCakXDdi2Y5.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2020-11-01"
+    },
+    {
+      "title": "Monster Hunter",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zO9R7Z6DRDgRO9QVz4lAJg3L15o.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zO9R7Z6DRDgRO9QVz4lAJg3L15o.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zO9R7Z6DRDgRO9QVz4lAJg3L15o.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2020-12-03"
+    },
+    {
+      "title": "Away",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c59eplVELdwrUfGBUAZVin3HfaL.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c59eplVELdwrUfGBUAZVin3HfaL.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/c59eplVELdwrUfGBUAZVin3HfaL.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2019-11-15"
+    },
+    {
+      "title": "The Lego Star Wars Holiday Special",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zyzJSI7UZZzz5Toj10rYGF5689z.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zyzJSI7UZZzz5Toj10rYGF5689z.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zyzJSI7UZZzz5Toj10rYGF5689z.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2020-11-17"
+    },
+    {
+      "title": "Star Wars",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg 2x"
+      ],
+      "rating": 82,
+      "releaseDate": "1977-05-25"
+    },
+    {
+      "title": "His House",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2020-01-27"
+    },
+    {
+      "title": "1917",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iZf0KyrE25z1sage4SYFLCCrMi9.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iZf0KyrE25z1sage4SYFLCCrMi9.jpg 2x"
+      ],
+      "rating": 79,
+      "releaseDate": "2019-12-25"
+    },
+    {
+      "title": "King Arthur",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2IsTPo1yzm1X1XJVuv1F04SmFnB.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2IsTPo1yzm1X1XJVuv1F04SmFnB.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2IsTPo1yzm1X1XJVuv1F04SmFnB.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2004-07-07"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg 2x"
+      ],
+      "rating": 79,
+      "releaseDate": "2001-11-16"
+    },
+    {
+      "title": "We Bare Bears: The Movie",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2020-06-30"
+    },
+    {
+      "title": "3022",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dp1brl24LXGFU3JPFaDoljDONRz.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dp1brl24LXGFU3JPFaDoljDONRz.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/dp1brl24LXGFU3JPFaDoljDONRz.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2019-11-22"
+    },
+    {
+      "title": "Phineas and Ferb The Movie: Candace Against the Universe",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/n6hptKS7Y0ZjkYwbqKOK3jz9XAC.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/n6hptKS7Y0ZjkYwbqKOK3jz9XAC.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/n6hptKS7Y0ZjkYwbqKOK3jz9XAC.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2020-08-28"
+    },
+    {
+      "title": "Igor",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg 2x"
+      ],
+      "rating": 56,
+      "releaseDate": "2008-09-19"
+    },
+    {
+      "title": "Road House",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bCs0ioTdqXtCaFOHqYvHFfxUGBK.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bCs0ioTdqXtCaFOHqYvHFfxUGBK.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bCs0ioTdqXtCaFOHqYvHFfxUGBK.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "1989-05-19"
+    },
+    {
+      "title": "Happy Halloween, Scooby-Doo!",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg 2x"
+      ],
+      "rating": 79,
+      "releaseDate": "2020-10-06"
+    },
+    {
+      "title": "I Hate Summer",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/f0l06BUo5PlW7h3XOaPZMFn3mEt.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/f0l06BUo5PlW7h3XOaPZMFn3mEt.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/f0l06BUo5PlW7h3XOaPZMFn3mEt.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2020-01-30"
+    },
+    {
+      "title": "Pokémon the Movie: I Choose You!",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2017-07-15"
+    },
+    {
+      "title": "A Babysitter's Guide to Monster Hunting",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bkld8Me0WiLWipLORRNfF1yIPHu.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bkld8Me0WiLWipLORRNfF1yIPHu.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bkld8Me0WiLWipLORRNfF1yIPHu.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2020-10-14"
+    },
+    {
+      "title": "Kubo and the Two Strings",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2016-08-18"
+    },
+    {
+      "title": "The Immortal Wars: Resurgence",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iFGU4UOXlxd0S4ohJI6TmoCTQrk.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iFGU4UOXlxd0S4ohJI6TmoCTQrk.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iFGU4UOXlxd0S4ohJI6TmoCTQrk.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2019-12-13"
+    },
+    {
+      "title": "The Stronghold",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9Vyo740WlMp0C9qCnYp3fXbrOU0.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9Vyo740WlMp0C9qCnYp3fXbrOU0.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/9Vyo740WlMp0C9qCnYp3fXbrOU0.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2017-10-12"
+    },
+    {
+      "title": "My Girl",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qyJJNHteA7BUwQSey05t7qP4vRV.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qyJJNHteA7BUwQSey05t7qP4vRV.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "1991-11-27"
+    },
+    {
+      "title": "Spy Time",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/93fz1SKHwqUdPjB73fKr9oG85QX.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/93fz1SKHwqUdPjB73fKr9oG85QX.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/93fz1SKHwqUdPjB73fKr9oG85QX.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2015-09-04"
+    },
+    {
+      "title": "Cadaver",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bo94ZQ0SlFRHL3fGPHNBYQDlnhl.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bo94ZQ0SlFRHL3fGPHNBYQDlnhl.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bo94ZQ0SlFRHL3fGPHNBYQDlnhl.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2020-10-22"
+    },
+    {
+      "title": "The Silencing",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dnN1ncxEOO1TY0gYL2FWxJqlhlL.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dnN1ncxEOO1TY0gYL2FWxJqlhlL.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/dnN1ncxEOO1TY0gYL2FWxJqlhlL.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-07-18"
+    },
+    {
+      "title": "Miraculous World: New York, United HeroeZ",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zNxqXCEEBllgbVOCuHLPasNsovt.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zNxqXCEEBllgbVOCuHLPasNsovt.jpg 1x",
+        "https://i.pinimg.com/564x/e3/92/56/e392563b2868e723d5c3f3d93b43d5da.jpg 2x"
+      ],
+      "rating": 87,
+      "releaseDate": "2020-10-10"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2005-11-16"
+    },
+    {
+      "title": "Pets United",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2019-11-08"
+    },
+    {
+      "title": "12 Hour Shift",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c3SbZPZPOfGMHq7DB7FnTIMQKuY.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c3SbZPZPOfGMHq7DB7FnTIMQKuY.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/c3SbZPZPOfGMHq7DB7FnTIMQKuY.jpg 2x"
+      ],
+      "rating": 51,
+      "releaseDate": "2020-10-02"
+    },
+    {
+      "title": "Wonder Woman: Bloodlines",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w1SBqj0fn1j72ST5i1jauWo3swT.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w1SBqj0fn1j72ST5i1jauWo3swT.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/w1SBqj0fn1j72ST5i1jauWo3swT.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2019-10-04"
+    },
+    {
+      "title": "Half Brothers",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dd9LuYRheOEd1KQfodkPl9nnC9l.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dd9LuYRheOEd1KQfodkPl9nnC9l.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/dd9LuYRheOEd1KQfodkPl9nnC9l.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2020-12-04"
+    },
+    {
+      "title": "Coco",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg 2x"
+      ],
+      "rating": 82,
+      "releaseDate": "2017-10-27"
+    },
+    {
+      "title": "Rascal Does Not Dream of a Dreaming Girl",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7Ai8vNEv4zEveh12JViGikoVPVV.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7Ai8vNEv4zEveh12JViGikoVPVV.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/7Ai8vNEv4zEveh12JViGikoVPVV.jpg 2x"
+      ],
+      "rating": 86,
+      "releaseDate": "2019-06-15"
+    },
+    {
+      "title": "Archive",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg 2x"
+      ],
+      "rating": 59,
+      "releaseDate": "2020-08-13"
+    },
+    {
+      "title": "Battlefield 2025",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w6e0XZreiyW4mGlLRHEG8ipff7b.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w6e0XZreiyW4mGlLRHEG8ipff7b.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/w6e0XZreiyW4mGlLRHEG8ipff7b.jpg 2x"
+      ],
+      "rating": 56,
+      "releaseDate": "2020-07-07"
+    },
+    {
+      "title": "Cats &amp; Dogs 3: Paws Unite",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-10-02"
+    },
+    {
+      "title": "Barbie: Princess Adventure",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg 2x"
+      ],
+      "rating": 79,
+      "releaseDate": "2020-09-01"
+    },
+    {
+      "title": "Kabaneri of the Iron Fortress: The Battle of Unato",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6t1esuYHkOFO5SejAVFlu6alChr.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6t1esuYHkOFO5SejAVFlu6alChr.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6t1esuYHkOFO5SejAVFlu6alChr.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2019-05-10"
+    },
+    {
+      "title": "Weathering with You",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg 2x"
+      ],
+      "rating": 81,
+      "releaseDate": "2019-06-19"
+    },
+    {
+      "title": "GoldenEye",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bFzjdy6ucvNlXmJwoSoYfufV6lP.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bFzjdy6ucvNlXmJwoSoYfufV6lP.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bFzjdy6ucvNlXmJwoSoYfufV6lP.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "1995-11-16"
+    },
+    {
+      "title": "Man on Fire",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/grCGLCcTHv9TChibzOwzUpykcjB.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/grCGLCcTHv9TChibzOwzUpykcjB.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2004-04-23"
+    },
+    {
+      "title": "Gallowwalkers",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg 2x"
+      ],
+      "rating": 41,
+      "releaseDate": "2012-10-27"
+    },
+    {
+      "title": "Bedroom Story",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/76Q0JKuv4s9gDFr8D0C9ixn8V4l.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/76Q0JKuv4s9gDFr8D0C9ixn8V4l.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/76Q0JKuv4s9gDFr8D0C9ixn8V4l.jpg 2x"
+      ],
+      "rating": 0,
+      "releaseDate": "2020-08-28"
+    },
+    {
+      "title": "The Fox and the Hound 2",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mIhKia4eMOBCYgHSHLHXQ01oc2A.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mIhKia4eMOBCYgHSHLHXQ01oc2A.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/mIhKia4eMOBCYgHSHLHXQ01oc2A.jpg 2x"
+      ],
+      "rating": 59,
+      "releaseDate": "2006-11-09"
+    },
+    {
+      "title": "Hacksaw Ridge",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jhWbYeUNOA5zAb6ufK6pXQFXqTX.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jhWbYeUNOA5zAb6ufK6pXQFXqTX.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/jhWbYeUNOA5zAb6ufK6pXQFXqTX.jpg 2x"
+      ],
+      "rating": 81,
+      "releaseDate": "2016-10-07"
+    },
+    {
+      "title": "Forever First Love",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/t7N2cST1tBJVH4iU3ns67zq8PuV.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/t7N2cST1tBJVH4iU3ns67zq8PuV.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/t7N2cST1tBJVH4iU3ns67zq8PuV.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-05-17"
+    },
+    {
+      "title": "Black Water: Abyss",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/95S6PinQIvVe4uJAd82a2iGZ0rA.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/95S6PinQIvVe4uJAd82a2iGZ0rA.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/95S6PinQIvVe4uJAd82a2iGZ0rA.jpg 2x"
+      ],
+      "rating": 54,
+      "releaseDate": "2020-07-09"
+    },
+    {
+      "title": "Black Fox",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7ypOmAQ3TowBa4iBILBboOEQqYh.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7ypOmAQ3TowBa4iBILBboOEQqYh.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/7ypOmAQ3TowBa4iBILBboOEQqYh.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2019-10-05"
+    },
+    {
+      "title": "Asylum: Twisted Horror &amp; Fantasy Tales",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3rxKic2PDrheSXMCG82vm9LAm8e.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3rxKic2PDrheSXMCG82vm9LAm8e.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/3rxKic2PDrheSXMCG82vm9LAm8e.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2020-07-02"
+    },
+    {
+      "title": "Redcon-1",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vVPrWngVJ2cfYAncBedQty69Dlf.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vVPrWngVJ2cfYAncBedQty69Dlf.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/vVPrWngVJ2cfYAncBedQty69Dlf.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2018-09-07"
+    },
+    {
+      "title": "You've Got This",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wpY2ZhxqsHYXjaaFUHzQ0nmIjYs.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wpY2ZhxqsHYXjaaFUHzQ0nmIjYs.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/wpY2ZhxqsHYXjaaFUHzQ0nmIjYs.jpg 2x"
+      ],
+      "rating": 82,
+      "releaseDate": "2020-10-02"
+    },
+    {
+      "title": "Star Wars: The Rise of Skywalker",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/db32LaOibwEliAmSL2jjDF6oDdj.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/db32LaOibwEliAmSL2jjDF6oDdj.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2019-12-18"
+    },
+    {
+      "title": "Green Lantern: Emerald Knights",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jT9L05KLeQIhfbxqeViwbGLxT59.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jT9L05KLeQIhfbxqeViwbGLxT59.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/jT9L05KLeQIhfbxqeViwbGLxT59.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "2011-04-09"
+    },
+    {
+      "title": "Notes for My Son",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nI5XuD0Il8LgsSyPvXESdafAtaD.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nI5XuD0Il8LgsSyPvXESdafAtaD.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/nI5XuD0Il8LgsSyPvXESdafAtaD.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2020-11-24"
+    },
+    {
+      "title": "Fast &amp; Furious Presents: Hobbs &amp; Shaw",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2019-08-01"
+    },
+    {
+      "title": "Project Power",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-08-14"
+    },
+    {
+      "title": "Riot",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg 2x"
+      ],
+      "rating": 59,
+      "releaseDate": "2015-09-27"
+    },
+    {
+      "title": "The ABCs of Death",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dBSEA6P2bq7apsmORxV0a54puhL.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dBSEA6P2bq7apsmORxV0a54puhL.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/dBSEA6P2bq7apsmORxV0a54puhL.jpg 2x"
+      ],
+      "rating": 50,
+      "releaseDate": "2013-03-08"
+    },
+    {
+      "title": "Robot Riot",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pXv4qbWyj6ycMaWkK2LzlizZQjf.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pXv4qbWyj6ycMaWkK2LzlizZQjf.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/pXv4qbWyj6ycMaWkK2LzlizZQjf.jpg 2x"
+      ],
+      "rating": 26,
+      "releaseDate": "2020-12-23"
+    },
+    {
+      "title": "Finding Grace",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/d7LKwASjH0rgbSIz0eqUbzHZWe3.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/d7LKwASjH0rgbSIz0eqUbzHZWe3.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/d7LKwASjH0rgbSIz0eqUbzHZWe3.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2020-04-21"
+    },
+    {
+      "title": "Train to Busan",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3H1WFCuxyNRP35oiL2qqwhAXxc0.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3H1WFCuxyNRP35oiL2qqwhAXxc0.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/3H1WFCuxyNRP35oiL2qqwhAXxc0.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2016-07-20"
+    },
+    {
+      "title": "Survival Skills",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fijLp6vU0AqvSXtQOPrFXb8ebuV.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fijLp6vU0AqvSXtQOPrFXb8ebuV.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/fijLp6vU0AqvSXtQOPrFXb8ebuV.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2020-03-06"
+    },
+    {
+      "title": "Shrek",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg 2x"
+      ],
+      "rating": 76,
+      "releaseDate": "2001-05-18"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2002-11-13"
+    },
+    {
+      "title": "Cencoroll Connect",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2ayrhipQ6wETRZyixZW8UPKztEG.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2ayrhipQ6wETRZyixZW8UPKztEG.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2ayrhipQ6wETRZyixZW8UPKztEG.jpg 2x"
+      ],
+      "rating": 70,
+      "releaseDate": "2019-06-29"
+    },
+    {
+      "title": "Parasite",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg 2x"
+      ],
+      "rating": 85,
+      "releaseDate": "2019-05-30"
+    },
+    {
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2020-02-05"
+    },
+    {
+      "title": "Hillbilly Elegy",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7mfMBPYCnzDYExWQOHXhHpSJ3Ip.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7mfMBPYCnzDYExWQOHXhHpSJ3Ip.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/7mfMBPYCnzDYExWQOHXhHpSJ3Ip.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2020-11-11"
+    },
+    {
+      "title": "We Can Be Heroes",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-12-25"
+    },
+    {
+      "title": "The King’s Avatar: For The Glory",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/aQ7ZUDxcSf8U4ynCstNCMLgdhrD.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/aQ7ZUDxcSf8U4ynCstNCMLgdhrD.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/aQ7ZUDxcSf8U4ynCstNCMLgdhrD.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2019-08-16"
+    },
+    {
+      "title": "Sonic the Hedgehog",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg 2x"
+      ],
+      "rating": 75,
+      "releaseDate": "2020-02-12"
+    },
+    {
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2019-05-15"
+    },
+    {
+      "title": "The Princess Switch: Switched Again",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/e4qXQXXaVYvHBE3Rx5x3qrmxorB.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/e4qXQXXaVYvHBE3Rx5x3qrmxorB.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/e4qXQXXaVYvHBE3Rx5x3qrmxorB.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2020-11-19"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/v0wMKEEGaNc9evdqGYfIvoWXh24.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/v0wMKEEGaNc9evdqGYfIvoWXh24.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/v0wMKEEGaNc9evdqGYfIvoWXh24.jpg 2x"
+      ],
+      "rating": 80,
+      "releaseDate": "2004-05-31"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg 2x"
+      ],
+      "rating": 81,
+      "releaseDate": "2011-07-07"
+    },
+    {
+      "title": "Bad Boys for Life",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-01-15"
+    },
+    {
+      "title": "Dragon Ball Z: Broly – The Legendary Super Saiyan",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "1993-03-06"
+    },
+    {
+      "title": "Earthfall",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dCaPFrbKnAjfcz9fUIoX0slelbk.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dCaPFrbKnAjfcz9fUIoX0slelbk.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/dCaPFrbKnAjfcz9fUIoX0slelbk.jpg 2x"
+      ],
+      "rating": 48,
+      "releaseDate": "2015-06-22"
+    },
+    {
+      "title": "Spider-Man: Far from Home",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg 2x"
+      ],
+      "rating": 75,
+      "releaseDate": "2019-06-28"
+    },
+    {
+      "title": "Justice League",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eifGNCSDuxJeS1loAXil5bIGgvC.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/eifGNCSDuxJeS1loAXil5bIGgvC.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2017-11-15"
+    },
+    {
+      "title": "D-Railed",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/24GnXIwhkK95Kdz0KkTWeepA6El.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/24GnXIwhkK95Kdz0KkTWeepA6El.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/24GnXIwhkK95Kdz0KkTWeepA6El.jpg 2x"
+      ],
+      "rating": 54,
+      "releaseDate": "2018-12-01"
+    },
+    {
+      "title": "Mank",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5nTa84ZOxViiWcTW5wU7e3DWI4I.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5nTa84ZOxViiWcTW5wU7e3DWI4I.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/5nTa84ZOxViiWcTW5wU7e3DWI4I.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2020-11-13"
+    },
+    {
+      "title": "My Hero Academia: Two Heroes",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg 2x"
+      ],
+      "rating": 81,
+      "releaseDate": "2018-08-03"
+    },
+    {
+      "title": "Alabama Snake",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ur9DkTZ5Kk2q5vUTwDGy34yuYjZ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ur9DkTZ5Kk2q5vUTwDGy34yuYjZ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ur9DkTZ5Kk2q5vUTwDGy34yuYjZ.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2020-12-09"
+    },
+    {
+      "title": "Wotakoi: Love is Hard for Otaku",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9JV0LOcazudqEcz2NNOMqEIzACz.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9JV0LOcazudqEcz2NNOMqEIzACz.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/9JV0LOcazudqEcz2NNOMqEIzACz.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-02-07"
+    },
+    {
+      "title": "Joker",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg 2x"
+      ],
+      "rating": 82,
+      "releaseDate": "2019-10-02"
+    },
+    {
+      "title": "The Fanatic",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nojx83s8JWyYpI9oeKdQXniWMu6.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nojx83s8JWyYpI9oeKdQXniWMu6.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/nojx83s8JWyYpI9oeKdQXniWMu6.jpg 2x"
+      ],
+      "rating": 45,
+      "releaseDate": "2019-08-30"
+    },
+    {
+      "title": "The Frozen Ground",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ymtZAllpShQlC4bG1nOCAhot349.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ymtZAllpShQlC4bG1nOCAhot349.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ymtZAllpShQlC4bG1nOCAhot349.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2013-07-11"
+    },
+    {
+      "title": "The Babysitters",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nsrNUqGXI95unRKZEu8BJ584xWn.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nsrNUqGXI95unRKZEu8BJ584xWn.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/nsrNUqGXI95unRKZEu8BJ584xWn.jpg 2x"
+      ],
+      "rating": 59,
+      "releaseDate": "2007-09-11"
+    },
+    {
+      "title": "Au-dessus des nuages",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3EhhY1tEpYOWPTcJqCAdA4kEnaz.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3EhhY1tEpYOWPTcJqCAdA4kEnaz.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/3EhhY1tEpYOWPTcJqCAdA4kEnaz.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-10-04"
+    },
+    {
+      "title": "The Avengers",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2012-04-25"
+    },
+    {
+      "title": "Holidate",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lAaJc9842RDVrjvR3OLPMTeHkiA.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lAaJc9842RDVrjvR3OLPMTeHkiA.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/lAaJc9842RDVrjvR3OLPMTeHkiA.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2020-10-27"
+    },
+    {
+      "title": "Artemis Fowl",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tI8ocADh22GtQFV28vGHaBZVb0U.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tI8ocADh22GtQFV28vGHaBZVb0U.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/tI8ocADh22GtQFV28vGHaBZVb0U.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-06-12"
+    },
+    {
+      "title": "After",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2019-04-11"
+    },
+    {
+      "title": "Greyhound",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kjMbDciooTbJPofVXgAoFjfX8Of.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/kjMbDciooTbJPofVXgAoFjfX8Of.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2020-07-10"
+    },
+    {
+      "title": "The Lion King",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2019-07-12"
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/Ag21otqbeynZPGjEbzyr3X5Us0j.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/Ag21otqbeynZPGjEbzyr3X5Us0j.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/Ag21otqbeynZPGjEbzyr3X5Us0j.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2009-07-07"
+    },
+    {
+      "title": "The Old Guard",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2020-07-10"
+    },
+    {
+      "title": "The Terminator",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qvktm0BHcnmDpul4Hz01GIazWPr.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qvktm0BHcnmDpul4Hz01GIazWPr.jpg 2x"
+      ],
+      "rating": 76,
+      "releaseDate": "1984-10-26"
+    },
+    {
+      "title": "Wonder Woman",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2009-03-03"
+    },
+    {
+      "title": "Your Name.",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/q719jXXEzOoYaps6babgKnONONX.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/q719jXXEzOoYaps6babgKnONONX.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/q719jXXEzOoYaps6babgKnONONX.jpg 2x"
+      ],
+      "rating": 86,
+      "releaseDate": "2016-08-26"
+    },
+    {
+      "title": "The King of the Toad",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mKOZID4nBALexiJsIoG7BTLIyTN.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mKOZID4nBALexiJsIoG7BTLIyTN.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/mKOZID4nBALexiJsIoG7BTLIyTN.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2019-08-29"
+    },
+    {
+      "title": "Killing Gunther",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5jm2l2qRq8jEzXzOZgD2wEgFznq.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5jm2l2qRq8jEzXzOZgD2wEgFznq.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/5jm2l2qRq8jEzXzOZgD2wEgFznq.jpg 2x"
+      ],
+      "rating": 47,
+      "releaseDate": "2017-09-22"
+    },
+    {
+      "title": "Ju-on: The Grudge",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k4SGW8btbAiSuEpUAWUXw4TbCmT.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k4SGW8btbAiSuEpUAWUXw4TbCmT.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/k4SGW8btbAiSuEpUAWUXw4TbCmT.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "2002-10-18"
+    },
+    {
+      "title": "The Current Occupant",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zl2oCYmEB0iKWZIVQWOH5Ao5Mo4.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zl2oCYmEB0iKWZIVQWOH5Ao5Mo4.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zl2oCYmEB0iKWZIVQWOH5Ao5Mo4.jpg 2x"
+      ],
+      "rating": 56,
+      "releaseDate": "2020-07-17"
+    },
+    {
+      "title": "Fantastic Planet",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/prq0j1S0K07UjwLZLF6oMGflRUI.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/prq0j1S0K07UjwLZLF6oMGflRUI.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "1973-12-01"
+    },
+    {
+      "title": "I Want to Eat Your Pancreas",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vHdVU0HyyB6k6kuYt8qjwTz9one.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vHdVU0HyyB6k6kuYt8qjwTz9one.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/vHdVU0HyyB6k6kuYt8qjwTz9one.jpg 2x"
+      ],
+      "rating": 83,
+      "releaseDate": "2018-09-01"
+    },
+    {
+      "title": "Dragon Ball Z: Broly – Second Coming",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4CkArpSqySpBQH95Oqr94ktU6rU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4CkArpSqySpBQH95Oqr94ktU6rU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4CkArpSqySpBQH95Oqr94ktU6rU.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "1994-03-12"
+    },
+    {
+      "title": "Sanctuary Population One",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lfdca1dN9pN62fc0y01U8ssAr5K.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lfdca1dN9pN62fc0y01U8ssAr5K.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/lfdca1dN9pN62fc0y01U8ssAr5K.jpg 2x"
+      ],
+      "rating": 53,
+      "releaseDate": "2018-12-01"
+    },
+    {
+      "title": "Dragon Ball Z: Resurrection 'F'",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2015-04-18"
+    },
+    {
+      "title": "They Live Inside Us",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hVGBsF3MvHuBxLsAaBVjNoU58X.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hVGBsF3MvHuBxLsAaBVjNoU58X.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/hVGBsF3MvHuBxLsAaBVjNoU58X.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2020-10-06"
+    },
+    {
+      "title": "Below Her Mouth",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2017-02-10"
+    },
+    {
+      "title": "Reaptown",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wyN1R51euy3c2YHsyiSnc5ovF5t.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wyN1R51euy3c2YHsyiSnc5ovF5t.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/wyN1R51euy3c2YHsyiSnc5ovF5t.jpg 2x"
+      ],
+      "rating": 52,
+      "releaseDate": "2020-09-28"
+    },
+    {
+      "title": "Kingsman: The Secret Service",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg 2x"
+      ],
+      "rating": 76,
+      "releaseDate": "2014-12-13"
+    },
+    {
+      "title": "Star Wars: The Last Jedi",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2017-12-13"
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/g6n8G0xPnBVUIKKK41sNmbZB5h4.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/g6n8G0xPnBVUIKKK41sNmbZB5h4.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/g6n8G0xPnBVUIKKK41sNmbZB5h4.jpg 2x"
+      ],
+      "rating": 77,
+      "releaseDate": "2007-06-28"
+    },
+    {
+      "title": "Forbidden Empire",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/q0o9JQDp6PHY4zK0Aw1NHpyQyeo.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/q0o9JQDp6PHY4zK0Aw1NHpyQyeo.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/q0o9JQDp6PHY4zK0Aw1NHpyQyeo.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2014-01-30"
+    },
+    {
+      "title": "La maldición del guapo",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7ABPIUINn2zZWtyW8xPsCppT7OB.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7ABPIUINn2zZWtyW8xPsCppT7OB.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/7ABPIUINn2zZWtyW8xPsCppT7OB.jpg 2x"
+      ],
+      "rating": 54,
+      "releaseDate": "2020-07-10"
+    },
+    {
+      "title": "Breaking Surface",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fwfZuySmp8emMMpZMKw13iZQRGp.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fwfZuySmp8emMMpZMKw13iZQRGp.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/fwfZuySmp8emMMpZMKw13iZQRGp.jpg 2x"
+      ],
+      "rating": 70,
+      "releaseDate": "2020-02-14"
+    },
+    {
+      "title": "Shrek 2",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/oljiDFPyMY437BRRV69AzVDSiKy.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/oljiDFPyMY437BRRV69AzVDSiKy.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/oljiDFPyMY437BRRV69AzVDSiKy.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2004-05-19"
+    },
+    {
+      "title": "Dilwale",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pYgPu6hhOr61knwbestTx4vSdMb.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pYgPu6hhOr61knwbestTx4vSdMb.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/pYgPu6hhOr61knwbestTx4vSdMb.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2015-12-18"
+    },
+    {
+      "title": "The Waterboy",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "1998-11-06"
+    },
+    {
+      "title": "Behind Enemy Lines",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2IVvws0ZuvOX4V4P6sisl6oVlj0.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2IVvws0ZuvOX4V4P6sisl6oVlj0.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2IVvws0ZuvOX4V4P6sisl6oVlj0.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2001-11-30"
+    },
+    {
+      "title": "S.W.A.T.",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hHl5RwmclPA4Ttz8B6dDmtgPDe4.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/hHl5RwmclPA4Ttz8B6dDmtgPDe4.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/hHl5RwmclPA4Ttz8B6dDmtgPDe4.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2019-12-29"
+    },
+    {
+      "title": "The Accidental Spy",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fPW4Qn9wm82uOexHMB3TC8x6lRU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fPW4Qn9wm82uOexHMB3TC8x6lRU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/fPW4Qn9wm82uOexHMB3TC8x6lRU.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2001-01-18"
+    },
+    {
+      "title": "Host",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/BGFm9YaerOGelQbNAjxELYDNCj.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/BGFm9YaerOGelQbNAjxELYDNCj.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/BGFm9YaerOGelQbNAjxELYDNCj.jpg 2x"
+      ],
+      "rating": 75,
+      "releaseDate": "2020-11-27"
+    },
+    {
+      "title": "The Lion King",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg 2x"
+      ],
+      "rating": 83,
+      "releaseDate": "1994-06-23"
+    },
+    {
+      "title": "The Wedding Singer",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zVvyTrcZQb7kC2DPDzyo25WcxXp.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zVvyTrcZQb7kC2DPDzyo25WcxXp.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zVvyTrcZQb7kC2DPDzyo25WcxXp.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "1998-02-13"
+    },
+    {
+      "title": "Nobody Sleeps in the Woods Tonight",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg 2x"
+      ],
+      "rating": 48,
+      "releaseDate": "2020-03-13"
+    },
+    {
+      "title": "Magic Camp",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/awcPLFFYjufRXd2oAAP6ZIXF9vM.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/awcPLFFYjufRXd2oAAP6ZIXF9vM.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/awcPLFFYjufRXd2oAAP6ZIXF9vM.jpg 2x"
+      ],
+      "rating": 70,
+      "releaseDate": "2020-08-14"
+    },
+    {
+      "title": "Jurassic World: Fallen Kingdom",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2018-06-06"
+    },
+    {
+      "title": "Avatar",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg 2x"
+      ],
+      "rating": 75,
+      "releaseDate": "2009-12-10"
+    },
+    {
+      "title": "The Bear",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tzZZ68P93eUK3E1gAJXRjFtnNkZ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tzZZ68P93eUK3E1gAJXRjFtnNkZ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/tzZZ68P93eUK3E1gAJXRjFtnNkZ.jpg 2x"
+      ],
+      "rating": 70,
+      "releaseDate": "1988-10-21"
+    },
+    {
+      "title": "Mulan",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bJ0DxWQDLdjSJmFHwtximVdgJ5P.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bJ0DxWQDLdjSJmFHwtximVdgJ5P.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bJ0DxWQDLdjSJmFHwtximVdgJ5P.jpg 2x"
+      ],
+      "rating": 79,
+      "releaseDate": "1998-06-18"
+    },
+    {
+      "title": "A Quiet Place Part II",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg 2x"
+      ],
+      "rating": 0,
+      "releaseDate": "2021-04-21"
+    },
+    {
+      "title": "Clouds",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2YvT3pdGngzpbAuxamTz4ZlabnT.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2YvT3pdGngzpbAuxamTz4ZlabnT.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2YvT3pdGngzpbAuxamTz4ZlabnT.jpg 2x"
+      ],
+      "rating": 84,
+      "releaseDate": "2020-10-09"
+    },
+    {
+      "title": "Professor Marston and the Wonder Women",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2017-10-13"
+    },
+    {
+      "title": "Star Wars: The Force Awakens",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2015-12-15"
+    },
+    {
+      "title": "Toy Story",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg 2x"
+      ],
+      "rating": 79,
+      "releaseDate": "1995-10-30"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg 2x"
+      ],
+      "rating": 84,
+      "releaseDate": "2018-12-06"
+    },
+    {
+      "title": "Superman: Doomsday",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2007-09-18"
+    },
+    {
+      "title": "Unpregnant",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1BqjLXnPkGzIFR5CRBTYfXdu2DV.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/1BqjLXnPkGzIFR5CRBTYfXdu2DV.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/1BqjLXnPkGzIFR5CRBTYfXdu2DV.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2020-09-10"
+    },
+    {
+      "title": "Unknown Origins",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vJHSParlylICnI7DuuI54nfTPRR.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vJHSParlylICnI7DuuI54nfTPRR.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/vJHSParlylICnI7DuuI54nfTPRR.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2020-08-28"
+    },
+    {
+      "title": "Riding With Sugar",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dOIb7faqFhXJwvG5jPO0yT3KkzK.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dOIb7faqFhXJwvG5jPO0yT3KkzK.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/dOIb7faqFhXJwvG5jPO0yT3KkzK.jpg 2x"
+      ],
+      "rating": 75,
+      "releaseDate": "2020-11-27"
+    },
+    {
+      "title": "Father There Is Only One 2",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7MjODwcPV5tAEa1zlje9N4gReGS.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7MjODwcPV5tAEa1zlje9N4gReGS.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/7MjODwcPV5tAEa1zlje9N4gReGS.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-07-29"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2010-10-17"
+    },
+    {
+      "title": "A Silent Voice",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/drlyoSKDOPnxzJFrRWGqzDsyJvR.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/drlyoSKDOPnxzJFrRWGqzDsyJvR.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/drlyoSKDOPnxzJFrRWGqzDsyJvR.jpg 2x"
+      ],
+      "rating": 84,
+      "releaseDate": "2016-09-17"
+    },
+    {
+      "title": "Naruto Shippuden the Movie: Blood Prison",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4WT7zYFpe0fsbg6TitppiHddWAh.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4WT7zYFpe0fsbg6TitppiHddWAh.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4WT7zYFpe0fsbg6TitppiHddWAh.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2011-07-30"
+    },
+    {
+      "title": "Scooby-Doo! and the Reluctant Werewolf",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cXUQuHnNBxFSZAmYfogMfrcvMk7.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cXUQuHnNBxFSZAmYfogMfrcvMk7.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/cXUQuHnNBxFSZAmYfogMfrcvMk7.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "1988-11-13"
+    },
+    {
+      "title": "Mean Girls 2",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/34zKHT98ZgSCz6ag1ZNBul7f1Wu.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/34zKHT98ZgSCz6ag1ZNBul7f1Wu.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/34zKHT98ZgSCz6ag1ZNBul7f1Wu.jpg 2x"
+      ],
+      "rating": 52,
+      "releaseDate": "2011-01-23"
+    },
+    {
+      "title": "Black Box",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9Z1zkb4Z9hUlEuC0oMagVJaPUeS.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9Z1zkb4Z9hUlEuC0oMagVJaPUeS.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/9Z1zkb4Z9hUlEuC0oMagVJaPUeS.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2020-10-06"
+    },
+    {
+      "title": "Woochi: The Demon Slayer",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xrgsXvKv8h2X5xbZduJK6cMxtfE.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xrgsXvKv8h2X5xbZduJK6cMxtfE.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/xrgsXvKv8h2X5xbZduJK6cMxtfE.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2009-12-23"
+    },
+    {
+      "title": "Diablo: The Utimate Race",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8iJPxfZUIXEBCioJGvNyohyW8Uw.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8iJPxfZUIXEBCioJGvNyohyW8Uw.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/8iJPxfZUIXEBCioJGvNyohyW8Uw.jpg 2x"
+      ],
+      "rating": 51,
+      "releaseDate": "2019-01-18"
+    },
+    {
+      "title": "The Indian in the Cupboard",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6jxwjs285L16lO3XAX7FzfQpREb.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6jxwjs285L16lO3XAX7FzfQpREb.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6jxwjs285L16lO3XAX7FzfQpREb.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "1995-07-14"
+    },
+    {
+      "title": "Justice League: Doom",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tDpRd46ngOLocBfE8ecUa2M3nGW.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/tDpRd46ngOLocBfE8ecUa2M3nGW.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/tDpRd46ngOLocBfE8ecUa2M3nGW.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2012-02-28"
+    },
+    {
+      "title": "Double World",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lv3RonWge4GlC9ymNzC0oWpFCfv.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lv3RonWge4GlC9ymNzC0oWpFCfv.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/lv3RonWge4GlC9ymNzC0oWpFCfv.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-07-21"
+    },
+    {
+      "title": "Paranormal Activity: The Marked Ones",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fJJaRTLbCL3MVtE7j4IpiUWwpMA.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fJJaRTLbCL3MVtE7j4IpiUWwpMA.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/fJJaRTLbCL3MVtE7j4IpiUWwpMA.jpg 2x"
+      ],
+      "rating": 54,
+      "releaseDate": "2014-01-01"
+    },
+    {
+      "title": "La Llorona",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yVsINl4Aa9vvQ9lE2LF77qNj7AP.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yVsINl4Aa9vvQ9lE2LF77qNj7AP.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/yVsINl4Aa9vvQ9lE2LF77qNj7AP.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2020-01-22"
+    },
+    {
+      "title": "RE:BORN",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cE4VADDJxwpFqTjOvRNIfAsvI37.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cE4VADDJxwpFqTjOvRNIfAsvI37.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/cE4VADDJxwpFqTjOvRNIfAsvI37.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2016-09-24"
+    },
+    {
+      "title": "Toy Story 4",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg 2x"
+      ],
+      "rating": 76,
+      "releaseDate": "2019-06-19"
+    },
+    {
+      "title": "Historias lamentables",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vijoU09NBYoQ5VpawXj2AfGOmCw.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/vijoU09NBYoQ5VpawXj2AfGOmCw.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/vijoU09NBYoQ5VpawXj2AfGOmCw.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-11-19"
+    },
+    {
+      "title": "TKG: The Kids of Grove",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/84YAxigBtiS47OMlOOCCyToPmx0.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/84YAxigBtiS47OMlOOCCyToPmx0.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/84YAxigBtiS47OMlOOCCyToPmx0.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2020-09-23"
+    },
+    {
+      "title": "Get Duked!",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/b52nqFj5XrBNA7MhqcnENvFsHtx.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/b52nqFj5XrBNA7MhqcnENvFsHtx.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/b52nqFj5XrBNA7MhqcnENvFsHtx.jpg 2x"
+      ],
+      "rating": 62,
+      "releaseDate": "2019-03-08"
+    },
+    {
+      "title": "The First Purge",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/litjsBoiydO6JlO70uOX4N3WnNL.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/litjsBoiydO6JlO70uOX4N3WnNL.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2018-07-04"
+    },
+    {
+      "title": "Badland",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/217ddlMrnXll436baw7y5ERmz3x.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/217ddlMrnXll436baw7y5ERmz3x.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/217ddlMrnXll436baw7y5ERmz3x.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2019-11-01"
+    },
+    {
+      "title": "Immortal Demon Slayer",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eRaQrRxkFrlhqMnBmfcscLoujWM.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/eRaQrRxkFrlhqMnBmfcscLoujWM.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/eRaQrRxkFrlhqMnBmfcscLoujWM.jpg 2x"
+      ],
+      "rating": 76,
+      "releaseDate": "2017-07-13"
+    },
+    {
+      "title": "Snakes on a Plane",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/i0ynvZ89tV1t8MAL9FmeQELfXH0.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/i0ynvZ89tV1t8MAL9FmeQELfXH0.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/i0ynvZ89tV1t8MAL9FmeQELfXH0.jpg 2x"
+      ],
+      "rating": 53,
+      "releaseDate": "2006-08-06"
+    },
+    {
+      "title": "48 Hrs.",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2QL19nliH4xLxQC55CwRalpnkuA.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2QL19nliH4xLxQC55CwRalpnkuA.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2QL19nliH4xLxQC55CwRalpnkuA.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "1982-12-07"
+    },
+    {
+      "title": "A Whisker Away",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8Ga1CI4ZIIF8fxyfjZ5sNlb75e4.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8Ga1CI4ZIIF8fxyfjZ5sNlb75e4.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/8Ga1CI4ZIIF8fxyfjZ5sNlb75e4.jpg 2x"
+      ],
+      "rating": 81,
+      "releaseDate": "2020-06-18"
+    },
+    {
+      "title": "The Binding",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k8Oj2YlFKbwj1SNKZcb5Fw1Yosj.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k8Oj2YlFKbwj1SNKZcb5Fw1Yosj.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/k8Oj2YlFKbwj1SNKZcb5Fw1Yosj.jpg 2x"
+      ],
+      "rating": 56,
+      "releaseDate": "2020-10-02"
+    },
+    {
+      "title": "House of the Witch",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cg6xjZOnGsYYqC7SH3o8oJV9Vr1.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/cg6xjZOnGsYYqC7SH3o8oJV9Vr1.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/cg6xjZOnGsYYqC7SH3o8oJV9Vr1.jpg 2x"
+      ],
+      "rating": 46,
+      "releaseDate": "2017-10-07"
+    },
+    {
+      "title": "Ready Player One",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg 2x"
+      ],
+      "rating": 76,
+      "releaseDate": "2018-03-28"
+    },
+    {
+      "title": "Dragon Ball Z: Bio-Broly",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zndqKR7TTDVWMgD0CSqARVugXoP.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zndqKR7TTDVWMgD0CSqARVugXoP.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zndqKR7TTDVWMgD0CSqARVugXoP.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "1994-07-09"
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg 2x"
+      ],
+      "rating": 83,
+      "releaseDate": "2001-12-18"
+    },
+    {
+      "title": "Antebellum",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2020-09-02"
+    },
+    {
+      "title": "Jurassic World",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2015-06-06"
+    },
+    {
+      "title": "Broken Arrow",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "1996-02-09"
+    },
+    {
+      "title": "Tremors: Shrieker Island",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/46qwaON7l11M407rqh8lD4vXcAR.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/46qwaON7l11M407rqh8lD4vXcAR.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/46qwaON7l11M407rqh8lD4vXcAR.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2020-10-20"
+    },
+    {
+      "title": "Curious George: Go West, Go Wild",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7WWOiP8F6PHjXpJrnRZfvO2XNW.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/7WWOiP8F6PHjXpJrnRZfvO2XNW.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/7WWOiP8F6PHjXpJrnRZfvO2XNW.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2020-09-08"
+    },
+    {
+      "title": "The Tax Collector",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-08-07"
+    },
+    {
+      "title": "Monos",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/oxxIOWDP6beG37VG3jMxE77pRwC.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/oxxIOWDP6beG37VG3jMxE77pRwC.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/oxxIOWDP6beG37VG3jMxE77pRwC.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2019-09-05"
+    },
+    {
+      "title": "Xico's Path",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ssk0Gd27ziryP2OUxprIVhAvr3e.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ssk0Gd27ziryP2OUxprIVhAvr3e.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ssk0Gd27ziryP2OUxprIVhAvr3e.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2020-11-12"
+    },
+    {
+      "title": "A Cinderella Story: Once Upon a Song",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/awuuwPA8Hy9c5EH04xwkEXOSYiL.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/awuuwPA8Hy9c5EH04xwkEXOSYiL.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/awuuwPA8Hy9c5EH04xwkEXOSYiL.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2011-09-05"
+    },
+    {
+      "title": "Stand by Me Doraemon",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jArnRnllnxbvE2CEV8jc2hhwweS.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jArnRnllnxbvE2CEV8jc2hhwweS.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/jArnRnllnxbvE2CEV8jc2hhwweS.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2014-08-08"
+    },
+    {
+      "title": "Over the Top",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yo87I8MxzRf9ZsN6Awc2kM8vGwq.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/yo87I8MxzRf9ZsN6Awc2kM8vGwq.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/yo87I8MxzRf9ZsN6Awc2kM8vGwq.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "1987-02-13"
+    },
+    {
+      "title": "Venom",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "2018-09-28"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg 2x"
+      ],
+      "rating": 85,
+      "releaseDate": "2003-12-01"
+    },
+    {
+      "title": "Santana",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9Rj8l6gElLpRL7Kj17iZhrT5Zuw.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9Rj8l6gElLpRL7Kj17iZhrT5Zuw.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/9Rj8l6gElLpRL7Kj17iZhrT5Zuw.jpg 2x"
+      ],
+      "rating": 57,
+      "releaseDate": "2020-08-28"
+    },
+    {
+      "title": "Yu-Gi-Oh!: The Dark Side of Dimensions",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nFQkn1KE0Is3FUW0yPPgdVvCnlo.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nFQkn1KE0Is3FUW0yPPgdVvCnlo.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/nFQkn1KE0Is3FUW0yPPgdVvCnlo.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2016-04-23"
+    },
+    {
+      "title": "Fall in Love at First Kiss",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nMNVfz2bmcgj9Du0wywVHjbRIsz.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/nMNVfz2bmcgj9Du0wywVHjbRIsz.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/nMNVfz2bmcgj9Du0wywVHjbRIsz.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2019-02-14"
+    },
+    {
+      "title": "A Feral World",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9KXbCitUQisFZNsOaXfsxt9HC9p.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/9KXbCitUQisFZNsOaXfsxt9HC9p.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/9KXbCitUQisFZNsOaXfsxt9HC9p.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-09-22"
+    },
+    {
+      "title": "Frozen",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8i3Px4NL78HsxyR5PNnF3oS6X9O.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/8i3Px4NL78HsxyR5PNnF3oS6X9O.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/8i3Px4NL78HsxyR5PNnF3oS6X9O.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2013-11-20"
+    },
+    {
+      "title": "Standing Up, Falling Down",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sPf007Zt2zdPk62FfeNYnxBbXUG.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sPf007Zt2zdPk62FfeNYnxBbXUG.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/sPf007Zt2zdPk62FfeNYnxBbXUG.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2020-02-21"
+    },
+    {
+      "title": "The Purge: Election Year",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ubLbY97m8lYJ3Fykh7nfiwB5eth.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ubLbY97m8lYJ3Fykh7nfiwB5eth.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ubLbY97m8lYJ3Fykh7nfiwB5eth.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2016-06-29"
+    },
+    {
+      "title": "Silmido",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jwE6cVIoJ4JP397yMGfBBpHMJmF.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jwE6cVIoJ4JP397yMGfBBpHMJmF.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/jwE6cVIoJ4JP397yMGfBBpHMJmF.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "2003-12-24"
+    },
+    {
+      "title": "Interstellar",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg 2x"
+      ],
+      "rating": 83,
+      "releaseDate": "2014-11-05"
+    },
+    {
+      "title": "Legacy of Lies",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bhNHCeJDFDaB00A46AoCw2mggdE.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/bhNHCeJDFDaB00A46AoCw2mggdE.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/bhNHCeJDFDaB00A46AoCw2mggdE.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2020-08-06"
+    },
+    {
+      "title": "Corpus Christi",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6VZlm8sEwxkE3L5nXxz17QLj1sF.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6VZlm8sEwxkE3L5nXxz17QLj1sF.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6VZlm8sEwxkE3L5nXxz17QLj1sF.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2020-01-09"
+    },
+    {
+      "title": "Naruto Shippuden the Movie: Road to Ninja",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg 2x"
+      ],
+      "rating": 75,
+      "releaseDate": "2012-07-28"
+    },
+    {
+      "title": "Operation Christmas Drop",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ijrXKkb4eeanJOqFjGB7WRZVrZO.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ijrXKkb4eeanJOqFjGB7WRZVrZO.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ijrXKkb4eeanJOqFjGB7WRZVrZO.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2020-11-05"
+    },
+    {
+      "title": "Folklore: The Long Pond Studio Sessions",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4iroJUn8YuQBekDwGy7r61YHXiu.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4iroJUn8YuQBekDwGy7r61YHXiu.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4iroJUn8YuQBekDwGy7r61YHXiu.jpg 2x"
+      ],
+      "rating": 84,
+      "releaseDate": "2020-11-25"
+    },
+    {
+      "title": "Green Lantern: First Flight",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/g2nlapGaanfxsVhPWHth8FAdNrm.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/g2nlapGaanfxsVhPWHth8FAdNrm.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/g2nlapGaanfxsVhPWHth8FAdNrm.jpg 2x"
+      ],
+      "rating": 66,
+      "releaseDate": "2009-07-28"
+    },
+    {
+      "title": "Jumanji: The Next Level",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg 2x"
+      ],
+      "rating": 70,
+      "releaseDate": "2019-12-04"
+    },
+    {
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/xT98tLqatZPQApyRmlPL12LtiWp.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/xT98tLqatZPQApyRmlPL12LtiWp.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2014-12-10"
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "2017-07-05"
+    },
+    {
+      "title": "Spider-Man",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg 2x"
+      ],
+      "rating": 72,
+      "releaseDate": "2002-05-01"
+    },
+    {
+      "title": "Fifty Shades of Grey",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2015-02-11"
+    },
+    {
+      "title": "461 Days of Bento: A Promise Between Father and Son",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/s88UCHnDNRbVduGA1p6Vp8hsgzb.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/s88UCHnDNRbVduGA1p6Vp8hsgzb.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/s88UCHnDNRbVduGA1p6Vp8hsgzb.jpg 2x"
+      ],
+      "rating": 0,
+      "releaseDate": "2020-11-06"
+    },
+    {
+      "title": "ABCs of Death 2",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gSl0rWgxUyGOBbewqhfDSBstRHU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gSl0rWgxUyGOBbewqhfDSBstRHU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/gSl0rWgxUyGOBbewqhfDSBstRHU.jpg 2x"
+      ],
+      "rating": 53,
+      "releaseDate": "2014-10-02"
+    },
+    {
+      "title": "Last Shift",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lId3nglmnaEzxCzbBiHeW4srKYx.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lId3nglmnaEzxCzbBiHeW4srKYx.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/lId3nglmnaEzxCzbBiHeW4srKYx.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "2014-10-25"
+    },
+    {
+      "title": "Ice Age",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2002-03-10"
+    },
+    {
+      "title": "The Fate of the Furious",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg 2x"
+      ],
+      "rating": 69,
+      "releaseDate": "2017-04-12"
+    },
+    {
+      "title": "Ju-on: The Grudge 2",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ljHSGz3ElDkw3NbETHssg8sMH0o.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ljHSGz3ElDkw3NbETHssg8sMH0o.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ljHSGz3ElDkw3NbETHssg8sMH0o.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2003-08-15"
+    },
+    {
+      "title": "Captain Marvel",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg 2x"
+      ],
+      "rating": 70,
+      "releaseDate": "2019-03-06"
+    },
+    {
+      "title": "Monsters, Inc.",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/sgheSKxZkttIe8ONsf2sWXPgip3.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/sgheSKxZkttIe8ONsf2sWXPgip3.jpg 2x"
+      ],
+      "rating": 78,
+      "releaseDate": "2001-11-01"
+    },
+    {
+      "title": "Into the Woods",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k37bYqOUWMqhrfzmR8Mk9sy2jxH.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/k37bYqOUWMqhrfzmR8Mk9sy2jxH.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/k37bYqOUWMqhrfzmR8Mk9sy2jxH.jpg 2x"
+      ],
+      "rating": 58,
+      "releaseDate": "2014-12-24"
+    },
+    {
+      "title": "The Legend of the Galactic Heroes: Die Neue These Seiran 1",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zymHlQqgvqWdav52sbxJHo4MpYx.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/zymHlQqgvqWdav52sbxJHo4MpYx.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/zymHlQqgvqWdav52sbxJHo4MpYx.jpg 2x"
+      ],
+      "rating": 82,
+      "releaseDate": "2019-09-27"
+    },
+    {
+      "title": "Running with the Devil",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qJ2H94PpXxZgiGGUNkyLSKZzm8u.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/qJ2H94PpXxZgiGGUNkyLSKZzm8u.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/qJ2H94PpXxZgiGGUNkyLSKZzm8u.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2019-08-29"
+    },
+    {
+      "title": "Intersect",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/e6hgmD0P133bW5EH1kfhscwXN2a.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/e6hgmD0P133bW5EH1kfhscwXN2a.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/e6hgmD0P133bW5EH1kfhscwXN2a.jpg 2x"
+      ],
+      "rating": 61,
+      "releaseDate": "2020-02-12"
+    },
+    {
+      "title": "Another 48 Hrs.",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2gQaZQ6REriS7Gclv1akT5Urwgf.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/2gQaZQ6REriS7Gclv1akT5Urwgf.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/2gQaZQ6REriS7Gclv1akT5Urwgf.jpg 2x"
+      ],
+      "rating": 60,
+      "releaseDate": "1990-06-08"
+    },
+    {
+      "title": "Leap Year",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/91YAbo7h0HMYX0AZ0uITEHZ1nJp.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/91YAbo7h0HMYX0AZ0uITEHZ1nJp.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/91YAbo7h0HMYX0AZ0uITEHZ1nJp.jpg 2x"
+      ],
+      "rating": 55,
+      "releaseDate": "2010-05-17"
+    },
+    {
+      "title": "Another Cinderella Story",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/Acw0Syw7s8QFTCkdJgtGR2Eg0SB.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/Acw0Syw7s8QFTCkdJgtGR2Eg0SB.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/Acw0Syw7s8QFTCkdJgtGR2Eg0SB.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2008-09-16"
+    },
+    {
+      "title": "First Blood",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fVamGe8rfEQUrMbzumL1t0DslCA.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/fVamGe8rfEQUrMbzumL1t0DslCA.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/fVamGe8rfEQUrMbzumL1t0DslCA.jpg 2x"
+      ],
+      "rating": 74,
+      "releaseDate": "1982-10-22"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg 2x"
+      ],
+      "rating": 73,
+      "releaseDate": "2015-04-22"
+    },
+    {
+      "title": "Justice League: The New Frontier",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/n1gWb5uTNk8Jc5i9uO2NYZx4dai.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/n1gWb5uTNk8Jc5i9uO2NYZx4dai.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/n1gWb5uTNk8Jc5i9uO2NYZx4dai.jpg 2x"
+      ],
+      "rating": 68,
+      "releaseDate": "2008-02-26"
+    },
+    {
+      "title": "The Maze Runner",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/ode14q7WtDugFDp78fo9lCsmay9.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/ode14q7WtDugFDp78fo9lCsmay9.jpg 2x"
+      ],
+      "rating": 71,
+      "releaseDate": "2014-09-10"
+    },
+    {
+      "title": "The Kissing Booth 2",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg 2x"
+      ],
+      "rating": 80,
+      "releaseDate": "2020-07-24"
+    },
+    {
+      "title": "Bad Hair Day",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/rcvszjFjH8Wm4QBnU4xRUizxACg.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/rcvszjFjH8Wm4QBnU4xRUizxACg.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/rcvszjFjH8Wm4QBnU4xRUizxACg.jpg 2x"
+      ],
+      "rating": 65,
+      "releaseDate": "2015-05-12"
+    },
+    {
+      "title": "Dragon Ball Z: Super Android 13!",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uVJqC187rKxQ1sJsWlKjNfAzeTk.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/uVJqC187rKxQ1sJsWlKjNfAzeTk.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/uVJqC187rKxQ1sJsWlKjNfAzeTk.jpg 2x"
+      ],
+      "rating": 67,
+      "releaseDate": "1992-07-11"
+    },
+    {
+      "title": "Supergirl",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6OfuKKCPFclHOj4SSRRpLzF1lfP.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/6OfuKKCPFclHOj4SSRRpLzF1lfP.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/6OfuKKCPFclHOj4SSRRpLzF1lfP.jpg 2x"
+      ],
+      "rating": 53,
+      "releaseDate": "1984-07-01"
+    },
+    {
+      "title": "In My Room",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lW4vC6xYGGvZ7wbOUrVecwCVNW7.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/lW4vC6xYGGvZ7wbOUrVecwCVNW7.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/lW4vC6xYGGvZ7wbOUrVecwCVNW7.jpg 2x"
+      ],
+      "rating": 63,
+      "releaseDate": "2020-09-06"
+    },
+    {
+      "title": "What We Wanted",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/A9hKgVKo4wU0sZk5XLv323PtU0a.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/A9hKgVKo4wU0sZk5XLv323PtU0a.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/A9hKgVKo4wU0sZk5XLv323PtU0a.jpg 2x"
+      ],
+      "rating": 59,
+      "releaseDate": "2020-11-11"
+    },
+    {
+      "title": "16 Blocks",
+      "pictureUrls": [
+        "https://image.tmdb.org/t/p/w220_and_h330_face/p3ygfjYH0r0kNRbglwKNUgagiZR.jpg",
+        "https://image.tmdb.org/t/p/w220_and_h330_face/p3ygfjYH0r0kNRbglwKNUgagiZR.jpg 1x",
+        "https://image.tmdb.org/t/p/w440_and_h660_face/p3ygfjYH0r0kNRbglwKNUgagiZR.jpg 2x"
+      ],
+      "rating": 64,
+      "releaseDate": "2006-03-01"
+    }
+  ]
+}

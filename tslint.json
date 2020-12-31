@@ -1,0 +1,263 @@
+{
+  "$schema": "http://json.schemastore.org/tslint",
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rulesDirectory": [
+    "node_modules/tslint-line-before-constructor",
+    "node_modules/tslint-lines-between-class-members"
+  ],
+  "rules": {
+    "align": true,
+    "array-type": [
+      true,
+      "array-simple"
+    ],
+    "arrow-parens": false,
+    "ban": [
+      true,
+      {
+        "name": [
+          "*",
+          "then"
+        ],
+        "message": "Use async/await syntax instead"
+      },
+      {
+        "name": [
+          "*",
+          "catch"
+        ],
+        "message": "Use async/await syntax instead"
+      },
+      {
+        "name": [
+          "describe",
+          "only"
+        ]
+      },
+      {
+        "name": [
+          "describe",
+          "skip"
+        ]
+      },
+      {
+        "name": [
+          "it",
+          "only"
+        ]
+      },
+      {
+        "name": [
+          "it",
+          "skip"
+        ]
+      },
+      {
+        "name": [
+          "test",
+          "only"
+        ]
+      },
+      {
+        "name": [
+          "test",
+          "skip"
+        ]
+      },
+      {
+        "name": [
+          "*",
+          "toBeTruthy"
+        ],
+        "message": "Use .toBe(true) instead"
+      },
+      {
+        "name": [
+          "*",
+          "toBeFalsy"
+        ],
+        "message": "Use .toBe(false) instead"
+      },
+      {
+        "name": [
+          "*",
+          "parseInt"
+        ],
+        "message": "Use stringUtils.toInt() instead"
+      },
+      {
+        "name": "parseInt",
+        "message": "Use stringUtils.toInt() instead"
+      },
+      {
+        "name": [
+          "*",
+          "parseFloat"
+        ],
+        "message": "Use stringUtils.toFloat() instead"
+      },
+      {
+        "name": "parseFloat",
+        "message": "Use stringUtils.toFloat() instead"
+      },
+      {
+        "name": [
+          "*",
+          "log"
+        ],
+        "message": "Use ILogger.logInfo() instead"
+      },
+      {
+        "name": [
+          "*",
+          "warn"
+        ],
+        "message": "Use ILogger.logWarning() instead"
+      },
+      {
+        "name": [
+          "*",
+          "error"
+        ],
+        "message": "Use ILogger.logError() instead"
+      },
+      {
+        "name": [
+          "*",
+          "debug"
+        ],
+        "message": "Use ILogger.logInfo() instead"
+      },
+      {
+        "name": [
+          "*",
+          "verbose"
+        ],
+        "message": "Use ILogger.logInfo() instead"
+      }
+    ],
+    "ban-types": [
+      true,
+      [
+        "Boolean",
+        "Use boolean instead"
+      ],
+      [
+        "Number",
+        "Use number instead"
+      ],
+      [
+        "Object",
+        "Use {} instead"
+      ],
+      [
+        "String",
+        "Use string instead"
+      ],
+      [
+        "Symbol",
+        "Use symbol instead"
+      ]
+    ],
+    "curly": true,
+    "import-spacing": true,
+    "indent": [
+      true,
+      "spaces",
+      2
+    ],
+    "interface-name": [
+      true,
+      "always-prefix"
+    ],
+    "line-before-constructor": true,
+    "lines-between-class-members": [
+      true,
+      1
+    ],
+    "max-line-length": [
+      true,
+      1000
+    ],
+    "member-access": [
+      true,
+      "check-accessor",
+      "check-constructor",
+      "check-parameter-property"
+    ],
+    "member-ordering": false,
+    "no-consecutive-blank-lines": true,
+    "no-duplicate-imports": true,
+    "no-duplicate-switch-case": true,
+    "no-empty": false,
+    "no-for-in-array": true,
+    "no-implicit-dependencies": false,
+    "no-invalid-template-strings": true,
+    "no-invalid-this": true,
+    "no-irregular-whitespace": true,
+    "no-require-imports": true,
+    "no-shadowed-variable": [
+      true,
+      {
+        "function": false
+      }
+    ],
+    "no-switch-case-fall-through": true,
+    "object-literal-key-quotes": [
+      true,
+      "as-needed"
+    ],
+    "object-literal-sort-keys": false,
+    "one-line": [
+      true,
+      "check-catch",
+      "check-finally",
+      "check-else",
+      "check-open-brace",
+      "check-whitespace"
+    ],
+    "ordered-imports": [
+      true,
+      {
+        "import-sources-order": "case-insensitive",
+        "named-imports-order": "case-insensitive",
+        "module-source-path": "full"
+      }
+    ],
+    "prefer-method-signature": true,
+    "prefer-readonly": true,
+    "prefer-template": true,
+    "promise-function-async": true,
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "restrict-plus-operands": true,
+    "semicolon": [
+      true,
+      "always"
+    ],
+    "strict-type-predicates": true,
+    "switch-default": true,
+    "switch-final-break": true,
+    "trailing-comma": [
+      true,
+      {
+        "multiline": "never",
+        "singleline": "never"
+      }
+    ],
+    "triple-equals": true,
+    "variable-name": [
+      true,
+      "ban-keywords",
+      "check-format",
+      "allow-leading-underscore",
+      "allow-pascal-case",
+      "require-const-for-all-caps"
+    ]
+  }
+}

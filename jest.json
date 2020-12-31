@@ -1,0 +1,27 @@
+{
+  "setupFilesAfterEnv": [
+    "../tests/testSetup.ts"
+  ],
+  "moduleFileExtensions": [
+    "js",
+    "json",
+    "ts"
+  ],
+  "rootDir": "src",
+  "testEnvironment": "node",
+  "testRegex": ".test.ts$",
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  },
+  "coverageDirectory": "../coverage",
+  "collectCoverageFrom": [
+    "**/*.ts",
+    "!**/__tests__/**",
+    "!**/*.test.ts"
+  ],
+  "coverageReporters": [
+    "html",
+    "text",
+    "text-summary"
+  ]
+}
