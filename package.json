@@ -3,7 +3,7 @@
   "private": true,
   "name": "movies-app-api",
   "version": "1.0.0",
-  "description": "Movies App APIs (Typescript / Inversify / Express / MongoDb)",
+  "description": "Movies App APIs (Typescript / Inversify / Express / MongoDB)",
   "author": "Alexey Kim",
   "license": "MIT",
   "scripts": {

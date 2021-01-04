@@ -14,11 +14,11 @@ export class Movie extends BaseValidatable {
 
     super();
 
-    this.code = values.code?.trim().toLowerCase();
-    this.title = values.title?.trim();
-    this.pictureUrls = values.pictureUrls?.map((pictureUrl: string) => pictureUrl?.trim()).filter((pictureUrl: string) => pictureUrl);
-    this.rating = values.rating;
-    this.releaseDate = values.releaseDate;
+    this.code = values?.code?.trim().toLowerCase();
+    this.title = values?.title?.trim();
+    this.pictureUrls = values?.pictureUrls?.map((pictureUrl: string) => pictureUrl?.trim()).filter((pictureUrl: string) => pictureUrl);
+    this.rating = values?.rating;
+    this.releaseDate = values?.releaseDate;
   }
 
   @Expose()

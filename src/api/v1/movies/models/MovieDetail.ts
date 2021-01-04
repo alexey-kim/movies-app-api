@@ -16,8 +16,8 @@ export class MovieDetail extends Movie {
 
     super(values);
 
-    this.description = values.description?.trim() || '';
-    this.lengthInMins = values.lengthInMins;
+    this.description = values?.description?.trim() || '';
+    this.lengthInMins = values?.lengthInMins;
   }
 
   @Expose()

@@ -14,7 +14,7 @@ import { MovieOrderBy } from '../types/MovieOrderBy';
 export class MovieEntity extends BaseSerialisable {
 
   /*
-   * Use this constructor to create instances manually.
+   * Use this constructor to create instances manually, e.g. for seeding or testing
    * Mongoose will not call it.
    */
   public constructor(values: {
