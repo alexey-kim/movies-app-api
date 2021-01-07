@@ -16,6 +16,7 @@
   "coverageDirectory": "../coverage",
   "collectCoverageFrom": [
     "**/*.ts",
+    "!**/*.d.ts",
     "!**/__tests__/**",
     "!**/*.test.ts"
   ],

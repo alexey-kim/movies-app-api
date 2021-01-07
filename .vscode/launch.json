@@ -9,7 +9,7 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run-script",
-        "start:dev"
+        "start"
       ],
       "port": 9229,
       "smartStep": true,
